@@ -1,7 +1,7 @@
-- date: T 02/02
-  lecturer:
+- date: M 08/30
+  lecturer: Katerina & Ruslan
   title: >
-    <strong>Introduction</strong>
+    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec1_intro.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a9ceff9-de84-4ab5-965a-acc3011a7809
   notes:
@@ -11,10 +11,10 @@
     - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
-- date: Th 02/04
-  lecturer:
+- date: W 09/01
+  lecturer: Ruslan
   title: >
-    <strong>Evolutionary methods for policy search</strong>
+    <strong>Multi-armed Bandits</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec2_evolutionary_methods_1.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ad00c9b-75d8-447c-9c98-acc5011f3860
@@ -25,7 +25,7 @@
     # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
-  logistics:
+  logistics: <span class="event">HW1 out</span> <br>
 
 - date: F 02/05
   lecturer:
@@ -233,7 +233,7 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
-  logistics: 
+  logistics:
 
 - date: Th 03/04
   lecturer:
@@ -243,7 +243,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9978b80c-c003-4428-b64c-ace101196726
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics: 
+  logistics:
 
 - date: F 03/05
   lectuerer:
@@ -264,7 +264,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=488d0291-03dd-4824-b7a8-ace601198a4b
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics: 
+  logistics:
 
 - date: Th 03/11
   lecturer:
@@ -307,7 +307,7 @@
   # notes:
   # readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics: 
+  logistics:
 
 - date: T 03/16
   lecturer:
@@ -333,7 +333,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-  logistics: 
+  logistics:
 
 - date: F 03/19
   lecturer:
@@ -346,7 +346,7 @@
   title: >
     <strong>REINFORCE, Actor-Critic methods (cont.)</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
-  slides2: 
+  slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
   notes:
   readings:
@@ -549,7 +549,7 @@
 
 - date: F 04/23
   lecturer:
-  title: 
+  title:
   recitation: >
     <strong>Distributional RL</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec8_distRL.pdf
@@ -560,7 +560,7 @@
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
     # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
   logistics:
-    <span class="deadline">HW4 due 04/23 11:59pm</span> 
+    <span class="deadline">HW4 due 04/23 11:59pm</span>
     # <span class="event">HW5 out</span> <br>
 
 
@@ -584,7 +584,7 @@
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
   notes:
-  readings: 
+  readings:
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
     - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
@@ -593,8 +593,8 @@
     # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
     # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
     # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
-  logistics: 
-    
+  logistics:
+
 
   # lecturer:
   # title: >
@@ -667,7 +667,7 @@
     # - Nichol and Schulman <a href="https://d4mucfpksywv.cloudfront.net/research-covers/reptile/reptile_update.pdf" target="_blank">Reptile- a Scalable Metalearning Algorithm</a>
     # - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics:
-   
+
 
 - date: Th 05/06
   lecturer:
@@ -682,8 +682,8 @@
     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics: 
-  # <span class="deadline">HW5 due 05/06 11:59pm</span> 
+  logistics:
+  # <span class="deadline">HW5 due 05/06 11:59pm</span>
 
 - date: F 05/07
   lecturer:
@@ -694,7 +694,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be218e2-7278-4d4f-8f44-ad210122e789
   notes:
   readings:
-  logistics: 
+  logistics:
 
 # - date: Su 05/09
 #   lecturer:
