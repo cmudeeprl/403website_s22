@@ -16,7 +16,7 @@ title: Logistics
 - [SB] [Sutton & Barto, Reinforcement Learning: An Introduction, 2nd edition](http://incompleteideas.net/book/RLbook2018.pdf)
 - [GBC] [Goodfellow, Bengio & Courville, Deep Learning](http://www.deeplearningbook.org/)
 
-Chapters from these two texts, as well as relevant academic papers, will be referenced alongside each lecture, under the [Lectures]({{ "/lectures" | relative_url }}) section. 
+Chapters from these two texts, as well as relevant academic papers, will be referenced alongside each lecture, under the [Lectures]({{ "/lectures" | relative_url }}) section.
 
 The papers and chapters linked to each lecture are required unless noted as optional. They are instrumental to help you understand the concepts and algorithms taught in class.
 
@@ -29,7 +29,7 @@ If you want additional resources which contain parts of the course material, we 
 
 #### Recitations
 
-Recitations are usually given by TAs and their goal is to cover background material needed to understand the course, as well as to provide help for homeworks. You can control the material of the recitations every week by posting on Piazza the topics you wish to be discussed on friday's recitation. Take advantage of this privilege to better tailor the course to your needs. 
+Recitations are usually given by TAs and their goal is to cover background material needed to understand the course, as well as to provide help for homeworks. You can control the material of the recitations every week by posting on Piazza the topics you wish to be discussed on friday's recitation. Take advantage of this privilege to better tailor the course to your needs.
 <!-- Since neither lectures nor recitations are recorded this semester, your physical presence is necessary for both, for you to optimize your learning experience. -->
 
 ***
@@ -139,7 +139,7 @@ All violations (even the first violation) of the academic integrity or collabora
 
 ### Late Policy
 
-Each student has a total of **10 grace days** that may be applied to the homework assignments.
+Each student has a total of **8 grace days** that may be applied to the homework assignments.
 **No more than 3 grace days may be used on any single assignment**.
 
 Any assignment submitted more than 3 days past the deadline (or the date the student no longer has late day credit) will get **zero credit**.

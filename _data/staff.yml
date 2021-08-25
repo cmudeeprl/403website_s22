@@ -2,41 +2,74 @@ Instructors:
     - name: Katerina Fragkiadaki
       email: katef@cs.cmu.edu
       url: https://www.cs.cmu.edu/~katef/
-      office-hours: Tuesday, Thursday 12:00 noon - 12:30PM
+      office-hours: TBD
       image: staff/katef.jpeg
 
-# EducationAssociates:
-#     - name: Brynn Edmunds
-#       email: bedmunds@andrew.cmu.edu
-#       url:
-#       office-hours: TBD
-#       image: staff/bedmunds.jpg
+    - name: Ruslan Salakhutdinov
+      email: rsalakhu@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/katef.jpeg
+
+EducationAssociates:
+    - name: Brynn Edmunds
+      email: bedmunds@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/bedmunds.jpg
+
+    - name: Fatima Kizilkaya
+      email: fjeffrey@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/generic.jpg
 
 TAs:
-    - name: Conor Igoe
-      email: cigoe@andrew.cmu.edu
+    - name: Alvin Shek
+      email: ashek@andrew.cmu.edu
       url:
-      office-hours: Monday 10:30AM - 11:30AM, Friday 2:00PM - 3:00PM
-      image: staff/cigoe.jpg
+      office-hours: TBD
+      image: staff/generic.jpg
       zoom:
 
     - name: Yuning Wu
       email: yuningw@andrew.cmu.edu
       url:
-      office-hours: Monday 2:00PM - 3:00PM
+      office-hours: TBD
       image: staff/yuningw.jpg
-      zoom:
-
-    - name: Alvin Pan
-      email: qpan@andrew.cmu.edu
-      url:
-      office-hours: Wednesday 4:00PM - 5:00PM
-      image: staff/qpan.jpg
       zoom:
 
     - name: Nick Toldalagi
       email: ntoldala@andrew.cmu.edu
       url:
-      office-hours: Wednesday 4:00PM - 5:00PM
+      office-hours: TBD
       image: staff/ntoldala.jpg
+      zoom:
+
+    - name: Justin Kiefel
+      email: jkiefel@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/generic.jpg
+      zoom:
+
+    - name: Tiancheng Zhao
+      email: tianchen@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/generic.jpg
+      zoom:
+
+    - name: Xinda Zhou
+      email: xindaz@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/generic.jpg
+      zoom:
+
+    - name: Yafei Hu
+      email: yafeih@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/generic.jpg
       zoom:
