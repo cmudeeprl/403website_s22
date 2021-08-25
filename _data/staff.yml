@@ -9,7 +9,7 @@ Instructors:
       email: rsalakhu@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/katef.jpeg
+      image: staff/generic.jpeg
 
 EducationAssociates:
     - name: Brynn Edmunds
@@ -22,14 +22,14 @@ EducationAssociates:
       email: fjeffrey@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
 
 TAs:
     - name: Alvin Shek
       email: ashek@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
       zoom:
 
     - name: Yuning Wu
@@ -50,26 +50,26 @@ TAs:
       email: jkiefel@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
       zoom:
 
     - name: Tiancheng Zhao
       email: tianchen@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
       zoom:
 
     - name: Xinda Zhou
       email: xindaz@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
       zoom:
 
     - name: Yafei Hu
       email: yafeih@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpg
+      image: staff/generic.jpeg
       zoom:
