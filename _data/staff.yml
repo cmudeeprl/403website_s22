@@ -22,14 +22,14 @@ EducationAssociates:
       email: fjeffrey@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpeg
+      image: staff/Fatima.jpeg
 
 TAs:
     - name: Alvin Shek
       email: ashek@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpeg
+      image: staff/Alvin.jpeg
       zoom:
 
     - name: Alexander Li
@@ -50,7 +50,7 @@ TAs:
       email: jkiefel@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/generic.jpeg
+      image: staff/Justin.jpeg
       zoom:
 
     - name: Tiancheng Zhao
