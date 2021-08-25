@@ -32,11 +32,11 @@ TAs:
       image: staff/generic.jpeg
       zoom:
 
-    - name: Yuning Wu
-      email: yuningw@andrew.cmu.edu
+    - name: Alexander Li
+      email: acl2@andrew.cmu.edu
       url:
       office-hours: TBD
-      image: staff/yuningw.jpg
+      image: staff/generic.jpeg
       zoom:
 
     - name: Nick Toldalagi
