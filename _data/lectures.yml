@@ -1,7 +1,7 @@
 - date: M 08/30
   lecturer: Katerina & Ruslan
   title: >
-    <strong>Introduction to Reinforcement Learning and Representation Learning</strong>
+    <strong>Introduction to Reinforcement and Representation Learning</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec1_intro.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a9ceff9-de84-4ab5-965a-acc3011a7809
   notes:
@@ -27,11 +27,11 @@
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics: <span class="event">HW1 out</span> <br>
 
-- date: F 02/05
+- date: F 09/03
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym </strong>
+    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_tf.pdf
   slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58ef5a6a-dfaf-4978-b0a4-acc60140d49c
@@ -45,10 +45,10 @@
     # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
-- date: T 02/09
+- date: M 09/06
   lecturer:
   title: >
-    <strong>Evolutionary methods for policy search (cont.)</strong>
+    <strong>Labor Day - No Classes</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec3_evolutionary_methods_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5af27186-f50a-4223-85b5-acca012c1d48
   notes:
@@ -59,23 +59,23 @@
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:
 
-- date: Th 02/11
-  lecturer:
+- date: W 09/08
+  lecturer: Ruslan
   title: >
-    <strong>Multi-armed bandits</strong>
+    <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec4_bandits_explore.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4cf87ee-6cc8-4550-9b6d-accc011e757b
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
     - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
-  logistics: <span class="event">HW1 out</span> <br>
+  logistics:
 
-- date: F 02/12
+- date: F 09/10
   lecturer:
   title:
   recitation: >
-    <strong>Gaussian Processes</strong>
+    <strong>Gaussian Processes and Bayesian Optimization</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec2_gaussian_process.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f67789e7-94cc-457a-886a-accd01636821
@@ -97,10 +97,10 @@
 #   - <reading class="important">Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="_blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2 </reading>
 #   logistics:
 
-- date: T 02/16
-  lecturer:
+- date: M 09/13
+  lecturer: Ruslan
   title: >
-    <strong>Bayesian Optimization with Gaussian Processes</strong>
+    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
@@ -133,10 +133,10 @@
 #     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
 #   logistics:
 
-- date: Th 02/18
-  lecturer:
+- date: W 09/15
+  lecturer: Katerina
   title: >
-    <strong>Bayesian Optimization with Gaussian Processes (cont.)</strong>
+    <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # slides2:
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
