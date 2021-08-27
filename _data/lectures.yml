@@ -593,7 +593,7 @@
   title:
   recitation:   # <strong>Distributional RL</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec8_distRL.pdf
-  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sharing
+  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
   readings:
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
@@ -625,6 +625,10 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
   notes:
   readings:
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
 
 #     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
@@ -666,7 +670,7 @@
 - date: W 11/24
   lecturer:
   title: >
-    <strong>Spring Carnival - No classes</strong>
+    <strong>Thanksgiving Break - No classes</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec24_sim2real.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
   notes:
@@ -692,7 +696,7 @@
 - date: F 11/26
   lecturer:
   title: >
-    <strong>Spring Carnival - No classes</strong>
+    <strong>Thanksgiving Break - No classes</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec25_inversegraphicsforRL.pdf
   # slides2:
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45614624-ace7-4d57-a18b-ad1e01085d0f
@@ -715,11 +719,6 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
   notes:
   readings:
-    # - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    # - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-    # - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
-    # - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
-    # - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
   logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
 
 - date: W 12/01
@@ -732,6 +731,11 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be218e2-7278-4d4f-8f44-ad210122e789
   notes:
   readings:
+    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
   logistics:
 
 # - date: Su 05/09
@@ -746,4 +750,4 @@
   recitation: Quiz 3 Review
   notes:
   readings:
-  logistics: <span class="deadline">8:30AM - 11:30AM</span>
+  logistics: 
