@@ -46,7 +46,7 @@ We strongly encourage all students to form reading groups for joint study of the
 
 ### Grading
 
-The class requirements include *5 homework assignments* (55% of the grade) and *3 quizzes* (45% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
+The class requirements include *4 homework assignments* (60% of the grade) and *3 quizzes* (40% of the grade). By the end of this class you should have a good understanding of the basic methodologies in deep reinforcement learning, and be able to use them to solve real problems of modest complexity.
 
 The entirety of your course grade will be based on the performance in the homework assignments and the quizzes.
 
@@ -56,11 +56,22 @@ Individual homeworks may NOT necessarily be worth the same percentage. **Some ho
 
 ### Homework Assignments
 
-There will be 5 homework assignments over the course of the semester. For each, you may work in groups of **two or three** students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner as a collaborator on Gradescope** and that both names are listed in the writeup.
+There will be 4 homework assignments over the course of the semester. For each, you may work in groups of **two or three** students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
 
 These assignments may contain material that has been covered by published papers and webpages. We expect students to solve the problems themselves rather than search for answers.
 
 Students are required to **typeset written homework solutions using $$\LaTeX$$ and the provided template**, and submit as PDF. All code, including auxiliary scripts used for testing should be submitted with a README file to explain/document them.
+
+***  
+
+### Remote Student Engagement
+
+The remote-only (REO) Section B for this course is for students who cannot be on campus due to a government restriction on visas or travel or a documented health issue. To ensure that we are supporting these remote students:
+- Students in the remote section will be included in the course discussion forum, Piazza, to ask and answer questions.
+- Remote students will receive feedback on their assignments via marked rubric items in Gradescope, as all students do.
+- We encourage students to request office hours by appointment as needed. Please contact the course staff if you need more support in office hours.
+- Lectures and recitations will be recorded and made available to students. There may be a delay in posting these recordings while they are processed.
+- Exams will take place at the same time and place as the in-person section. We will require students in the remote section to attend the in-person exams if they are able. Accommodations for students to take the exam remotely at the same day and time as the in-person section will be considered on a case-by-case basis.
 
 ***
 
