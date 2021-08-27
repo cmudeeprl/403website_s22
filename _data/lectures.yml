@@ -162,29 +162,29 @@
 #     - Goodfellow et al. <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf" target="_blank">Generative Adversarial Nets</a>
 #   logistics:
 
-- date: F 02/19
+- date: F 09/17
   lecturer:
   title:
   recitation: >
     <strong>HW1</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec3_hw1.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cf27c4db-c7d0-4b4f-b83a-acd401251580
+  slides:
+  video:
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: T 02/23
-  lecturer:
+- date: T 09/20
+  lecturer: Katerina
   title: >
-    <strong> Break day - No classes </strong>
+    <strong>Planning, Monte Carlo Tree Search</strong>
 
-- date: Th 02/25
-  lecturer:
+- date: Th 09/22
+  lecturer: Ruslan
   title: >
-    <strong>Imitation learning with behavior cloning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec7_immitation_learning.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=72ffba4b-20e2-46fe-81b5-acda011f0d85
+    <strong>Policy gradients, REINFORCE, Actor-Critic Methods (Cont.), Deterministic Policy gradient, Re-parameterized PG</strong>
+  slides:
+  video:
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
