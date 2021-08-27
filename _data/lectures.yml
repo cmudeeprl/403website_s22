@@ -354,7 +354,7 @@
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-  logistics: <span class="deadline">HW2 Out</span>,  <span class="deadline">HW3 due 04/02 11:59PM</span>
+  logistics: <span class="deadline">HW3 Out</span>,  <span class="deadline">HW2 due 04/02 11:59PM</span>
 
 - date: W 10/20
   lecturer: Katerina
@@ -688,7 +688,8 @@
 
 - date: W 12/01
   lecturer: Ruslan
-  title: <strong>RL and generalization: A closer look to state representations for generalization in model free and model based RL </strong>
+  title: >
+    <strong>RL and generalization: A closer look to state representations for generalization in model free and model based RL </strong>
   # recitation: >
     # <strong>Quiz 3 Review</strong>
   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec9_quiz3.pdf
