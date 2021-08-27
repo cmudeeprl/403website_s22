@@ -228,54 +228,54 @@
   lecturer: Ruslan
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.), Deterministic Policy gradient, re-parametrized PG </strong>
-  slides:
-  video:
+  # slides:
+  # video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     # - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics: <span class="deadline">HW1 due 09/27 11:59pm</span>
 
-- date: w 0
-  lecturer:
+- date: W 09/29
+  lecturer: Katerina
   title: >
-    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec9&10_MC_TD.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9978b80c-c003-4428-b64c-ace101196726
+    <strong>Natural PG, PPO, TRPO</strong>
+  slides:
+  video:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
-  logistics:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+  logistics: <span class="deadline">HW2 Out</span>
 
-- date: F 03/05
-  lectuerer:
+- date: F 10/01
+  lecturer:
   title:
   recitation: >
-    <strong>A comparative overview of DP vs. MC vs. TD</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec5_DP&MC&TD.pdf
-  video: https://drive.google.com/file/d/1KzAQZlPrC0nNTPElVgjQyOwwZJq0dcJ3/view?usp=sharing
+    <strong>Quiz 1 Review</strong>
+  slides:
+  video:
   notes:
   readings:
-  logistics: <span class="event">HW2 out</span>
-
-- date: T 03/09
-  lecturer:
-  title: >
-    <strong>Monte Carlo Learning and Temporal Difference Learning (cont.)</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec9&10_MC_TD.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=488d0291-03dd-4824-b7a8-ace601198a4b
-  readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
   logistics:
 
-- date: Th 03/11
-  lecturer:
+- date: M 10/04
+  lecturer: Ruslan
   title: >
-    <strong>Function approximation in prediction and control</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec11_functionapprox.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4155e12f-5af2-4fc8-bbc2-ace8011f4c0c
+    <strong>Maximum Entropy RL, soft actor critic</strong>
+  slides:
+  video:
+  readings:
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+  logistics:
+
+- date: W 10/06
+  lecturer: Katerina
+  title: >
+    <strong>MCTS with prior knowledge</strong>
+  slides:
+  video:
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
-    - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
+    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
+    # - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
     # - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
     # - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
