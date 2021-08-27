@@ -15,9 +15,9 @@
   lecturer: Ruslan
   title: >
     <strong>Multi-armed Bandits</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec2_evolutionary_methods_1.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec2_evolutionary_methods_1.pdf
   # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ad00c9b-75d8-447c-9c98-acc5011f3860
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ad00c9b-75d8-447c-9c98-acc5011f3860
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
@@ -34,9 +34,9 @@
   title:
   recitation: >
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_tf.pdf
-  slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58ef5a6a-dfaf-4978-b0a4-acc60140d49c
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_tf.pdf
+  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=58ef5a6a-dfaf-4978-b0a4-acc60140d49c
   # notes:
   # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
@@ -79,9 +79,9 @@
   title:
   recitation: >
     <strong>Gaussian Processes and Bayesian Optimization</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec2_gaussian_process.pdf
-  # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f67789e7-94cc-457a-886a-accd01636821
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec2_gaussian_process.pdf
+  # # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f67789e7-94cc-457a-886a-accd01636821
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -108,9 +108,9 @@
   lecturer: Ruslan
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
-  # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
+  # # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -145,9 +145,9 @@
   lecturer: Katerina
   title: >
     <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
-  # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
+  # # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
