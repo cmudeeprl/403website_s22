@@ -37,7 +37,7 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 11:50 AM - 1:10
+- **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
 - **Recitations:** Friday 11:50 AM - 1:10 PM
 - **Lecture/Recitation Location:** GHC 4401
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
