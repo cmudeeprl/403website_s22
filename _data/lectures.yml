@@ -20,8 +20,10 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ad00c9b-75d8-447c-9c98-acc5011f3860
   notes:
   readings:
-    - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
-    - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
+    - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
+    # - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
+    # - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
@@ -40,8 +42,8 @@
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-    - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC" target=  "_blank">notebook</a>
-    - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR" target=  "_blank">notebook</a>
+    # - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC" target=  "_blank">notebook</a>
+    # - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR" target=  "_blank">notebook</a>
     # - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
@@ -67,8 +69,7 @@
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4cf87ee-6cc8-4550-9b6d-accc011e757b
   notes:
   readings:
-    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
-    - Russo et al. <a href="https://arxiv.org/abs/1707.02038" target="_blank">A Tutorial on Thompson Sampling</a>, Ch1-Ch4. Optional after Ch4
+
   logistics:
 
 - date: F 09/10
