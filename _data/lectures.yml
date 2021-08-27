@@ -27,7 +27,7 @@
     # - Mouret and Clune. <a href="https://arxiv.org/abs/1504.04909" target="_blank">Illuminating Search Spaces by Mapping Elites (Optional)</a>
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
-  logistics: <span class="event">HW1 out</span> <br>
+  logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 - date: F 09/03
   lecturer:
@@ -262,7 +262,7 @@
   video:
   readings:
 
-  logistics: <span class="deadline">HW2 Out</span>
+  logistics: <span class="deadline">HW2 out (tentative)</span>
 
 - date: F 10/01
   lecturer:
@@ -318,10 +318,10 @@
 - date: F 10/08
   lecturer:
   # title:
-  # recitation: >
+  recitation:
   #   <strong>Policy and Value Iterations</strong>
-  quiz: >
-    <strong> Quiz 1 (online) [covering everything through lecture 9]</strong>
+  # quiz: >
+  #   <strong> Quiz 1 (online) [covering everything through lecture 9]</strong>
   # slides:
   # # slides2:
   # video:
@@ -384,7 +384,7 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-  logistics: <span class="event">HW3 Out</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
+  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
 
 - date: W 10/20
   lecturer: Katerina
@@ -513,13 +513,14 @@
 
 - date: M 11/08
   lecturer:
+  recitation:
   # title: >
     # <strong>MBRL with latent dynamic models</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
-  quiz: >
-    <strong> Quiz 2 (online) [lectures 10-17]</strong>
+  # quiz: >
+  #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
   notes:
   readings:
     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
@@ -558,7 +559,7 @@
 
     # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
 
-  logistics: <span class="event">HW4 out</span> <br>
+  logistics: <span class="event">HW4 out (tentative)</span> <br>
 
 - date: W 11/17
   lecturer: Katerina
