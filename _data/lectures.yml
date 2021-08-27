@@ -467,9 +467,10 @@
   title:
   recitation: >
     <strong>Quiz 2 Review</strong>
+
   # slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba434ff0-3a8d-4862-96e5-acfe01236808
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba434ff0-3a8d-4862-96e5-acfe01236808
   notes:
   readings:
   logistics:
@@ -506,7 +507,8 @@
   lecturer:
   # quiz: >
      # <strong>Quiz 2 (online)</strong>
-  recitation: No Classes - Day for Community Engagement
+  title: >
+      <strong>No Classes - Day for Community Engagement</strong>
   logistics:
 
 - date: M 11/08
@@ -516,7 +518,8 @@
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
-  recitation: Quiz 2 Online [lectures 10-17]
+  quiz: >
+    <strong> Quiz 2 (online) [lectures 10-17]</strong>
   notes:
   readings:
     # - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
