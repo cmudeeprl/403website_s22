@@ -526,7 +526,7 @@
     # - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer- Bridging Planning and Reinforcement Learning</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-  logistics: <span>Pass/Fail Grade Option Deadline</span>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
 
 - date: W 11/10
   lecturer: Katerina
