@@ -294,13 +294,13 @@
 #     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 #   logistics:
 
-- date: F 03/12
+- date: F 10/08
   lecturer:
   # title:
   # recitation: >
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 1 (online)</strong>
+    <strong> Quiz 1 (online) [covering everything through lecture 9]</strong>
   # slides:
   # # slides2:
   # video:
@@ -309,12 +309,12 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: T 03/16
-  lecturer:
+- date: M 10/11
+  lecturer: Katerina
   title: >
-    <strong>Monte Carlo Tree search</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec12_MCTS.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75f57a98-6e2d-4dbc-8d08-aced0108bfb4
+    <strong>Evolutionary methods for policy search/strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec12_MCTS.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75f57a98-6e2d-4dbc-8d08-aced0108bfb4
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
@@ -322,12 +322,12 @@
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
   logistics:
 
-- date: Th 03/18
-  lecturer:
+- date: W 10/13
+  lecturer: Ruslan
   title: >
-    <strong>REINFORCE, Actor-Critic methods</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bf9a793-f2ac-4b52-aa36-acef01097cb8
+    <strong>Imitation learning, behavior cloning</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bf9a793-f2ac-4b52-aa36-acef01097cb8
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -335,25 +335,26 @@
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics:
 
-- date: F 03/19
+- date: F 10/15
   lecturer:
   title: >
     <strong> Mid-semester break - No classes </strong>
-  logistics: <span class="deadline">HW2 due 03/19 11:59pm </span> <br><span class="event"> HW3 out</span>
+  recitation: <strong>No Recitation (Mid-semester break) <strong>
+  # logistics: <span class="deadline">HW2 due 03/19 11:59pm </span> <br><span class="event"> HW3 out</span>
 
-- date: T 03/23
-  lecturer:
+- date: M 10/18
+  lecturer: Katerina
   title: >
-    <strong>REINFORCE, Actor-Critic methods (cont.)</strong>
-  slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
-  slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
+    <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+  # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
   notes:
   readings:
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-  logistics:
+  logistics: <span class="deadline">HW2 Out</span> <span class="deadline">HW3 due 04/02 11:59PM</span>
 
 - date: Th 03/25
   lecturer:
