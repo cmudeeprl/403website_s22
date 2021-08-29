@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-403 • Fall 2021 • Carnegie Mellon University
+description: 10-703 • Fall 2021 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
