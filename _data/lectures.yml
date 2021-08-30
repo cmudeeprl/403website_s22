@@ -3,7 +3,7 @@
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec1_intro.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1a9ceff9-de84-4ab5-965a-acc3011a7809
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be70cfb-16ba-4ae6-8823-ad9000d61467
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
