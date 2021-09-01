@@ -323,8 +323,8 @@
   # title:
   recitation:
   #   <strong>Policy and Value Iterations</strong>
-  # quiz: >
-  #   <strong> Quiz 1 (online) [covering everything through lecture 9]</strong>
+  quiz: >
+    <strong> Quiz 1 (online) [covering everything through lecture 9]</strong>
   # slides:
   # # slides2:
   # video:
@@ -508,8 +508,8 @@
 
 - date: F 11/05
   lecturer:
-  # quiz: >
-     # <strong>Quiz 2 (online)</strong>
+  quiz: >
+     <strong>Quiz 2 (online)</strong>
   title: >
       <strong>No Classes - Day for Community Engagement</strong>
   logistics:
