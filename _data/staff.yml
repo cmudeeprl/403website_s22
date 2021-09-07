@@ -2,13 +2,13 @@ Instructors:
     - name: Katerina Fragkiadaki
       email: katef@cs.cmu.edu
       url: https://www.cs.cmu.edu/~katef/
-      office-hours: TBD
+      office-hours: Mon, Wed 1:10pm (After class)
       image: staff/katef.jpeg
 
     - name: Ruslan Salakhutdinov
       email: rsalakhu@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Fri. 6pm
       image: staff/ruslan.jpg
 
 EducationAssociates:
@@ -28,48 +28,48 @@ TAs:
     - name: Alvin Shek
       email: ashek@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Tues. 6:30pm
       image: staff/Alvin.jpg
       zoom:
 
     - name: Alexander Li
       email: acl2@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Mon. 6:30pm
       image: staff/alex.jpg
       zoom:
 
     - name: Nick Toldalagi
       email: ntoldala@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Thurs. 6:30pm
       image: staff/ntoldala.jpg
       zoom:
 
     - name: Justin Kiefel
       email: jkiefel@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Tues. 2pm
       image: staff/Justin.jpg
       zoom:
 
     - name: Tiancheng Zhao
       email: tianchen@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Fri. 3pm
       image: staff/generic.jpeg
       zoom:
 
-    - name: Xinda Zhou
-      email: xindaz@andrew.cmu.edu
+    - name: Mel Roderick
+      email: mroderick@cmu.edu@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Wed. 9am
       image: staff/generic.jpeg
       zoom:
 
     - name: Yafei Hu
       email: yafeih@andrew.cmu.edu
       url:
-      office-hours: TBD
+      office-hours: Wed. 6:30pm
       image: staff/Yafei.png
       zoom:
