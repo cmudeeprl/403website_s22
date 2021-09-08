@@ -68,7 +68,7 @@
   lecturer: Ruslan
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec4_bandits_explore.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_mdps _policyvalueIterF21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b4cf87ee-6cc8-4550-9b6d-accc011e757b
   notes:
   readings:
