@@ -81,8 +81,9 @@
   title:
   recitation: >
     <strong>Pytorch, Training Resources & HW1</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec2_gaussian_process.pdf
+  slides: https://docs.google.com/presentation/d/19fjn3ycYLMQGg07zv1M_PMUsonvOCqXLYfaPQuT3JZI/edit?usp=sharing
   # # slides2:
+  notes: https://colab.research.google.com/drive/1JOL1dEfpXacPSOEUFqA2NSNwjZ4WJ085?usp=sharing
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f67789e7-94cc-457a-886a-accd01636821
   notes:
   readings:
