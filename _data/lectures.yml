@@ -111,7 +111,7 @@
   lecturer: Ruslan
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
   # # slides2:
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e963ef3b-2bd6-427b-b894-acd1011d660c
   notes:
