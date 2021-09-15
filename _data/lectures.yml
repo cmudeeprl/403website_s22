@@ -148,6 +148,7 @@
   lecturer: Katerina
   title: >
     <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # # slides2:
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
