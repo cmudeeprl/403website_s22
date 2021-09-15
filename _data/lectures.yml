@@ -145,9 +145,11 @@
 #   logistics:
 
 - date: W 09/15
-  lecturer: Katerina
-  title: >
-    <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
+  lecturer: Ruslan
+  title:
+    <strong>Monte Carlo Learning and Temporal Difference Learning Cont.</strong>
+  # title: >
+  #   <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # # slides2:
