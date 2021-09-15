@@ -220,6 +220,7 @@
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)&#58; Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
   logistics:
