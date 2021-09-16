@@ -153,7 +153,7 @@
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
   # # slides2:
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af46d2df-de1c-42c4-8f6e-acd3011db76e
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49c20d94-ccd8-4499-8141-ad9000d6a900
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
