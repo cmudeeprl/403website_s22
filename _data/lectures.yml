@@ -194,7 +194,7 @@
 - date: M 09/20
   lecturer: Katerina
   title: >
-    <strong>Planning, Monte Carlo Tree Search</strong>
+    <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA/strong>
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
