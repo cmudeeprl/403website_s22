@@ -268,7 +268,7 @@
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 
 
-- date: M 09/27
+- date: W 09/29
   lecturer: Ruslan
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.), Deterministic Policy gradient, re-parametrized PG </strong>
@@ -282,19 +282,6 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
   logistics: <span class="deadline">HW1 due 09/27 11:59pm</span>
 
-- date: W 09/29
-  lecturer: Katerina
-  title: >
-    <strong>Natural PG, PPO, TRPO</strong>
-  slides:
-  video:
-  readings:
-    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
-    - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
-  logistics: <span class="deadline">HW2 out (tentative)</span>
-
 - date: F 10/01
   lecturer:
   title:
@@ -307,6 +294,19 @@
   logistics:
 
 - date: M 10/04
+  lecturer: Katerina
+  title: >
+    <strong>Natural PG, PPO, TRPO</strong>
+  slides:
+  video:
+  readings:
+    - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
+    - Wu et al. <a href="https://papers.nips.cc/paper/7112-scalable-trust-region-method-for-deep-reinforcement-learning-using-kronecker-factored-approximation.pdf" target="_blank">Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation</a>
+  logistics: <span class="deadline">HW2 out (tentative)</span>
+
+- date: W 10/06
   lecturer: Ruslan
   title: >
     <strong>Maximum Entropy RL, soft actor critic</strong>
@@ -318,7 +318,22 @@
     - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
   logistics:
 
-- date: W 10/06
+- date: F 10/08
+  lecturer:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 1 [covering everything through lecture 9]</strong>
+  # slides:
+  # # slides2:
+  # video:
+  # notes:
+  # readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: M 10/11
   lecturer: Katerina
   title: >
     <strong>MCTS with prior knowledge</strong>
@@ -346,22 +361,7 @@
 #     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 #   logistics:
 
-- date: F 10/08
-  lecturer:
-  # title:
-  recitation:
-  #   <strong>Policy and Value Iterations</strong>
-  quiz: >
-    <strong> Quiz 1 [covering everything through lecture 9]</strong>
-  # slides:
-  # # slides2:
-  # video:
-  # notes:
-  # readings:
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
-
-- date: M 10/11
+- date: M 10/13
   lecturer: Katerina
   title: >
     <strong>Evolutionary methods for policy search </strong>
@@ -376,7 +376,13 @@
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
   logistics:
 
-- date: W 10/13
+- date: F 10/15
+  lecturer:
+  title: >
+    <strong> Mid-semester break - No classes </strong>
+  recitation: <strong>No Recitation (Mid-semester break) </strong>
+
+- date: M 10/18
   lecturer: Ruslan
   title: >
     <strong>Imitation learning, behavior cloning</strong>
@@ -394,13 +400,7 @@
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
   logistics:
 
-- date: F 10/15
-  lecturer:
-  title: >
-    <strong> Mid-semester break - No classes </strong>
-  recitation: <strong>No Recitation (Mid-semester break) </strong>
-
-- date: M 10/18
+- date: W 10/20
   lecturer: Katerina
   title: >
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
@@ -417,7 +417,19 @@
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
   logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
 
-- date: W 10/20
+- date: F 10/22
+  lecturer:
+  title:
+  recitation: >
+    <strong>A comparative overview of DP vs MC vs TD</strong>
+  slides:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc303427-9a8a-44fe-a637-acf70121c04f
+  notes:
+  readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: M 10/25
   lecturer: Katerina
   title: >
     <strong>Model-based RL I: ensembles</strong>
@@ -442,19 +454,7 @@
 #   title: >
 #     <strong>Mid Semester Break - No classes</strong>
 
-- date: F 10/22
-  lecturer:
-  title:
-  recitation: >
-    <strong>A comparative overview of DP vs MC vs TD</strong>
-  slides:
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc303427-9a8a-44fe-a637-acf70121c04f
-  notes:
-  readings:
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
-
-- date: M 10/25
+- date: W 10/27
   lecturer: Katerina
   title: >
     <strong>Model-based RL II: graph neural networks, iLQR</strong>
@@ -474,7 +474,20 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: W 10/27
+- date: F 10/29
+  lecturer:
+  title:
+  recitation: >
+    <strong>Quiz 2 Review</strong>
+
+  # slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba434ff0-3a8d-4862-96e5-acfe01236808
+  notes:
+  readings:
+  logistics:
+
+- date: M 11/01
   lecturer: Katerina
   title: >
     <strong>Model-based RL III: latent variable models</strong>
@@ -493,20 +506,7 @@
     # - Silver et al. <a href="https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ" target="_blank">Mastering the game of Go without human knowledge</a>
   # logistics:
 
-- date: F 10/29
-  lecturer:
-  title:
-  recitation: >
-    <strong>Quiz 2 Review</strong>
-
-  # slides: https://onedrive.live.com/view.aspx?resid=601D311D0FC404D4!55265&ithint=file%2cpptx&authkey=!ADwylcF15XEfygA
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba434ff0-3a8d-4862-96e5-acfe01236808
-  notes:
-  readings:
-  logistics:
-
-- date: M 11/01
+- date: W 11/03
   lecturer: Ruslan
   title: >
     <strong>Model-based RL IV</strong>
