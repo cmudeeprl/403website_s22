@@ -196,6 +196,7 @@
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_FA_S21.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81679c57-1efc-4364-ba03-ada9015d79fd
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
@@ -204,6 +205,13 @@
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     # - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 
+- date: W 09/22
+  lecturer: Katerina
+  title: >
+    <strong>Planning, Monte Carlo Tree search</strong>
+  slides:
+  video:
+    
 - date: W 09/22
   lecturer: Ruslan
   title: >
