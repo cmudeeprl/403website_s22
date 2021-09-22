@@ -239,7 +239,6 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
 
      # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-    # - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
 
@@ -263,6 +262,8 @@
   video:
   notes:
   readings:
+    - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
+
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
     - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
