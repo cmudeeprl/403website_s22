@@ -398,7 +398,8 @@
     - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-  logistics:
+  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
+
 
 - date: W 10/20
   lecturer: Katerina
@@ -415,7 +416,6 @@
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
-  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
 
 - date: F 10/22
   lecturer:
@@ -498,7 +498,7 @@
     - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
     - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-
+  logistics: <span class="deadline">HW3 due 11/01 11:59pm</span>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
   #   - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
@@ -517,9 +517,31 @@
   readings:
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
     #
-  logistics: <span class="deadline">HW3 due 11/01 11:59pm</span>
 
-- date: W 11/03
+
+- date: F 11/05
+  lecturer:
+  title: >
+      <strong>No Classes - Day for Community Engagement</strong>
+  logistics:
+
+- date: M 11/08
+  lecturer:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 1 [covering everything through lecture 9]</strong>
+  # slides:
+  # # slides2:
+  # video:
+  # notes:
+  # readings:
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
+
+
+- date: W 11/10
   lecturer: Ruslan
   title: >
     <strong>Offline RL</strong>
@@ -534,19 +556,11 @@
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
   logistics:
 
-- date: F 11/05
-  lecturer:
-  quiz: >
-     <strong>Quiz 2</strong>
-  title: >
-      <strong>No Classes - Day for Community Engagement</strong>
-  logistics:
-
-- date: M 11/08
+- date: F 11/12
   lecturer:
   recitation:
-  # title: >
-    # <strong>MBRL with latent dynamic models</strong>
+  title: >
+    <strong>Imitation and RL</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec20_modelbasedRL_latent.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
@@ -561,9 +575,8 @@
     # - Eysenbach et al. <a href="https://arxiv.org/pdf/1906.05253.pdf" target="_blank">Search on the Replay Buffer- Bridging Planning and Reinforcement Learning</a>
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
     # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
 
-- date: W 11/10
+- date: M 11/15
   lecturer: Katerina
   title: >
     <strong>Exploration using curiosity and episodic memory</strong>
@@ -574,12 +587,9 @@
     - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
     - Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-- date: F 11/12
-  lecturer: Katerina
-  title: >
-    <strong>Imitation and RL</strong>
+  logistics: <span class="event">HW4 out (tentative)</span> <br>
 
-- date: M 11/15
+- date: W 11/17
   lecturer: Ruslan
   title: >
     <strong>RL for navigation</strong>
@@ -590,9 +600,22 @@
 
     # - Pathak et al. <a href="https://pathak22.github.io/exploration-by-disagreement/" target="_blank">Self-Supervised Exploration via Disagreement</a>
 
-  logistics: <span class="event">HW4 out (tentative)</span> <br>
 
-- date: W 11/17
+
+- date: F 11/19
+  lecturer:
+  title:
+  recitation:   # <strong>Distributional RL</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec8_distRL.pdf
+  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
+  notes:
+  readings:
+    # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
+    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+  logistics:
+
+- date: M 11/22
   lecturer: Katerina
   title: >
     <strong>Visual Imitation Learning</strong>
@@ -623,18 +646,7 @@
 #   readings:
 #   logistics:
 
-- date: F 11/19
-  lecturer:
-  title:
-  recitation:   # <strong>Distributional RL</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec8_distRL.pdf
-  # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
-  notes:
-  readings:
-    # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
-    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-    # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-  logistics:
+
     # <span class="deadline">HW4 due 04/23 11:59pm</span>
     # <span class="event">HW5 out</span> <br>
 
@@ -651,56 +663,6 @@
 #     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
 #   logistics:
 #     <span class="deadline">HW4 due 04/23 11:59pm</span> <span class="event">HW5 out</span> <br>
-
-- date: M 11/22
-  lecturer: Katerina
-  title: >
-    <strong>Sim2Real transfer</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
-  notes:
-  readings:
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
-
-#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-    # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
-    # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
-    # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
-    # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
-  logistics:
-
-
-  # lecturer:
-  # title: >
-  #   <strong>Hierarchical RL</strong>
-  # slides:
-  # # video:
-  # notes:
-  # readings:
-  #   - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
-  #   - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
-  # logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
-
-# - date: Th 04/29
-#   lecturer:
-#   title: >
-#     <strong>Visual Imitation Learning (cont.)</strong>
-#   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
-#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
-#   notes:
-#   readings:
-#   #   - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
-#   #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
-#   logistics:
-
-# - date: Su 05/02
-#   lecturer:
-#   title: >
-#     <strong>HW5 out</strong>
-
 
 - date: W 11/24
   lecturer:
@@ -745,8 +707,57 @@
     # - Clavera et al. <a href="https://pdfs.semanticscholar.org/39ce/85ad322571b1bdc1d79ee10b9d608960374c.pdf?_ga=2.252655307.391011989.1574704506-1067889836.1572744668" target="_blank">Learning to Adapt&#58; Meta-Learning for Model-Based Control</a>
   logistics:
 
-
 - date: M 11/29
+  lecturer: Katerina
+  title: >
+    <strong>Sim2Real transfer</strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
+  notes:
+  readings:
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
+
+#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+    # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
+    # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
+    # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
+    # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
+  logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
+
+
+  # lecturer:
+  # title: >
+  #   <strong>Hierarchical RL</strong>
+  # slides:
+  # # video:
+  # notes:
+  # readings:
+  #   - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning - Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
+  #   - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
+  # logistics: <span class="deadline">HW4 due 11/23 11:59pm</span> <br>
+
+# - date: Th 04/29
+#   lecturer:
+#   title: >
+#     <strong>Visual Imitation Learning (cont.)</strong>
+#   slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
+#   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=740fba08-3776-486b-a04b-ad1901085607
+#   notes:
+#   readings:
+#   #   - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS<span>:</span> Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
+#   #   - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV<span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
+#   logistics:
+
+# - date: Su 05/02
+#   lecturer:
+#   title: >
+#     <strong>HW5 out</strong>
+
+
+- date: W 12/01
   lecturer: Ruslan
   title: >
     <strong>Meta-learning for RL</strong>
@@ -754,24 +765,6 @@
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
   notes:
   readings:
-  logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
-
-- date: W 12/01
-  lecturer: Ruslan
-  title: >
-    <strong>RL and generalization: A closer look to state representations for generalization in model free and model based RL </strong>
-  # recitation: >
-    # <strong>Quiz 3 Review</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec9_quiz3.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be218e2-7278-4d4f-8f44-ad210122e789
-  notes:
-  readings:
-    - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
-    - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
-    - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
-    - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
-    - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
-  logistics:
 
 # - date: Su 05/09
 #   lecturer:
@@ -786,3 +779,20 @@
   notes:
   readings:
   logistics:
+
+# - date: W 12/01
+#   lecturer: Ruslan
+#   title: >
+#     <strong>RL and generalization: A closer look to state representations for generalization in model free and model based RL </strong>
+#   # recitation: >
+#     # <strong>Quiz 3 Review</strong>
+#   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec9_quiz3.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be218e2-7278-4d4f-8f44-ad210122e789
+#   notes:
+#   readings:
+#     - Florence et al. <a href="https://arxiv.org/pdf/1909.06933.pdf" target="_blank">Self-Supervised Correspondence in Visuomotor Policy Learning</a>
+#     - Tung et al. <a href="https://yjy0625.github.io/publications/v-be_corl2020.pdf" target="_blank"> Visually-Grounded Library of Behaviours for Transfering Manipulation across Objects and Views</a>
+#     - Zambaldi et al. <a href="https://arxiv.org/pdf/1806.01830.pdf" target="_blank"> Relational Deep Reinforcement Learning</a>
+#     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
+#     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
+#   logistics:
