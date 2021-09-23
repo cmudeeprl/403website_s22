@@ -221,8 +221,8 @@
   lecturer:
   title:
   recitation: >
-    <strong>REC: Review of MDP, Value Functions, Bellman Equation</strong>
-  slides:
+    <strong>MCTS, TD Learning, Deep Q Learning</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec_4.pdf
   video:
   notes:
   readings:
