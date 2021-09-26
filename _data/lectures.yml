@@ -264,7 +264,7 @@
   lecturer: Ruslan
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
   video:
   notes:
   readings:
@@ -279,7 +279,7 @@
   lecturer: Ruslan
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.), Deterministic Policy gradient, re-parametrized PG </strong>
-  # slides:
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
   # video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
