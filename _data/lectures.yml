@@ -287,6 +287,8 @@
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+
   logistics: <span class="deadline">HW2 out (tentative)</span>
 
 - date: F 10/01
@@ -307,6 +309,7 @@
   slides:
   video:
   readings:
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     - Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
