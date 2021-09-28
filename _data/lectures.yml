@@ -265,7 +265,7 @@
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d5f015-aa6e-43f6-a186-ad9000d6ec55
   notes:
   readings:
     - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
