@@ -306,7 +306,7 @@
   lecturer: Katerina
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21.pdf
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
