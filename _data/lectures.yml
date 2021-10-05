@@ -306,8 +306,8 @@
   lecturer: Katerina
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21.pdf
-  video:
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_updated.pdf
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b08fdc64-d17d-424b-a533-ad9000d7248c
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
