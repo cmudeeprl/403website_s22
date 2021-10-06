@@ -320,7 +320,7 @@
   lecturer: Ruslan
   title: >
     <strong>Maximum Entropy RL, soft actor critic</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MaximumEntropyRL.pdf
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -335,7 +335,7 @@
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
     <strong> Quiz 1 [covering everything through Wednesday, September 29]</strong>
-  # slides:
+  slides:
   # # slides2:
   # video:
   # notes:
