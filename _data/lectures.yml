@@ -278,14 +278,13 @@
 - date: W 09/29
   lecturer: Ruslan
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.), Deterministic Policy gradient, re-parametrized PG </strong>
+    <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60b0921d-4cf4-487f-afca-ad9000d714be
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     # - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
 
@@ -306,7 +305,7 @@
   lecturer: Katerina
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_updated.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_2.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b08fdc64-d17d-424b-a533-ad9000d7248c
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -317,15 +316,17 @@
 
 
 - date: W 10/06
-  lecturer: Ruslan
+  lecturer: Katerina and Ben
   title: >
-    <strong>Maximum Entropy RL, soft actor critic</strong>
+    <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MaximumEntropyRL.pdf
+  slides2: 
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
     - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
   logistics:
 
 - date: F 10/08
