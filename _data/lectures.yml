@@ -349,7 +349,7 @@
   title: >
     <strong>MCTS Evolutionary methods for policy search </strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/evolutionarymethods_F21.pdf
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ccf5dbc-5e68-4146-b9db-ad9000d7b750
   notes:
   readings:
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
@@ -363,7 +363,7 @@
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     # Three more paper added
     - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
-    - Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)</a> 
+    - Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)</a>
     - Max Jaderberg et al. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Population Based Training of Neural Networks </a>
   logistics:
 
@@ -441,7 +441,7 @@
 
 - date: W 10/20
   lecturer: Katerina
-  title: > 
+  title: >
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
   # slides2:
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
