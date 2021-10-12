@@ -347,13 +347,13 @@
 - date: M 10/11
   lecturer: Katerina
   title: >
-    <strong>MCTS with prior knowledge, Evolutionary methods for policy search </strong>
-  slides:
+    <strong>MCTS Evolutionary methods for policy search </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/evolutionarymethods_F21
   video:
   notes:
   readings:
-    - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-    - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
+    # - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - Hasselt et al. <a href="https://arxiv.org/abs/1509.06461" target="_blank">Deep Reinforcement Learning with Double Q-learning</a>
     # - Shaul et al. <a href="https://arxiv.org/abs/1511.05952" target="_blank">Prioritized Experience Replay</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
@@ -361,6 +361,11 @@
     # - Mandlekar et al. <a href="https://arxiv.org/pdf/1911.05321.pdf" target="_blank">IRIS - Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
+    # Three more paper added
+    - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>, optional
+    - Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET), optional
+    - Max Jaderberg et al. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Population Based Training of Neural Networks
+</a>, optional
   logistics:
 
 # - date: Th 03/11
@@ -374,8 +379,8 @@
 #     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 #   logistics:
 
-- date: M 10/13
-  lecturer: Katerina
+- date: W 10/13
+  lecturer: Ruslan
   title: >
     <strong>Imitation learning, behavior cloning</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec12_MCTS.pdf
@@ -400,26 +405,26 @@
     <strong> Mid-semester break - No classes </strong>
   recitation: <strong>No Recitation (Mid-semester break) </strong>
 
+# - date: M 10/18
+#   lecturer: Katerina
+#   title: >
+#     <strong>Imitation learning, behavior cloning</strong>
+#   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+#   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bf9a793-f2ac-4b52-aa36-acef01097cb8
+#   notes:
+#   readings:
+#     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+#     # - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
+#     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+#     - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
+#     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
+#     - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
+#     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
+#     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
+#   logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
+
+
 - date: M 10/18
-  lecturer: Ruslan
-  title: >
-    <strong>Imitation learning, behavior cloning</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bf9a793-f2ac-4b52-aa36-acef01097cb8
-  notes:
-  readings:
-    # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-    # - <a href="http://karpathy.github.io/2016/05/31/rl/" target="blank">Deep Reinforcement Learning<span>:</span> Pong from Pixels </a> (blogpost)
-    # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Chen et al. <a href="https://arxiv.org/abs/1912.12294" target="_blank">Learning by Cheating</a>
-    - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
-    - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
-    - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
-    - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-  logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 10/18 11:59PM</span>
-
-
-- date: W 10/20
   lecturer: Katerina
   title: >
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
@@ -431,9 +436,19 @@
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
-    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
+
+- date: W 10/20
+  lecturer: Katerina
+  title: >
+    # <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+  # slides2:
+  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
+  notes:
+  readings:
 
 - date: F 10/22
   lecturer:
