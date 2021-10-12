@@ -362,10 +362,9 @@
     - Salimans et al. <a href="https://arxiv.org/abs/1703.03864" target="_blank">Evolution Strategies as a Scalable Alternative to Reinforcement Learning</a>
     - Nikolaus Hansen. <a href="https://arxiv.org/pdf/1604.00772.pdf" target="_blank">The CMA Evolution Strategy - A Tutorial</a>, optional
     # Three more paper added
-    - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>, optional
-    - Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET), optional
-    - Max Jaderberg et al. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Population Based Training of Neural Networks
-</a>, optional
+    - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
+    - Rui Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)</a> 
+    - Max Jaderberg et al. <a href="https://arxiv.org/abs/1711.09846" target="_blank">Population Based Training of Neural Networks </a>
   logistics:
 
 # - date: Th 03/11
