@@ -382,7 +382,7 @@
   lecturer: Ruslan
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec12_MCTS.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/immitationlearning_F21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=75f57a98-6e2d-4dbc-8d08-aced0108bfb4
   notes:
   readings:
@@ -397,6 +397,7 @@
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
   logistics:
+
 
 - date: F 10/15
   lecturer:
