@@ -460,8 +460,8 @@
   - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
   - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
   - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-  -Lambert, et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
-  -Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
+  - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
+  - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
 
 - date: F 10/22
   lecturer:
