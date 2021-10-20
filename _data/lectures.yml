@@ -430,7 +430,7 @@
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/RL+demosF21.pdf
   # slides2:
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b442f125-2c34-4e6b-b483-acf40108a04a
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=447aa00c-52ae-4d0b-87fd-ad9000d7e599
   notes:
   readings:
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
