@@ -446,18 +446,22 @@
 - date: W 10/20
   lecturer: Katerina
   title: >
-  <strong>Model based RL, Low dimensional model, Explicit models. </strong>
+    <strong>Model based RL, Low dimensional model, Explicit models. </strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRLRL_lowdimexplicit_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c02f4b-b81b-4bc5-96b8-ad9000d8037f
   notes:
   readings:
-  -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-  -(optional) Janner et al.  <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model: Model-Based Policy Optimization</a>
-  -(optional) Kurutach et al.  <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
-  -Kaiser et al.  <a href="" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  # -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  # -(optional) Janner et al.  <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model: Model-Based Policy Optimization</a>
+  # -(optional) Kurutach et al.  <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  # -Kaiser et al.  <a href="" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
+  - (optional) Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
+  - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
+  - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+  - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
   -Lambert, et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
-  -Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation
-</a>
+  -Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
 
 - date: F 10/22
   lecturer:
@@ -484,11 +488,7 @@
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    # - Chua et al. <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
-    # - Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
-    # - Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
-    # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-    # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
+
   logistics:
 
 # - date: F 03/26
