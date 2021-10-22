@@ -478,7 +478,7 @@
 - date: M 10/25
   lecturer: Katerina
   title: >
-    <strong>AlphaGo, AlphaGoZero, muzero</strong>
+    <strong>AlphaGo, AlphaGoZero, MuZero</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880315a6-86a3-4d93-9ec7-acf6010c80ce
@@ -492,7 +492,7 @@
     - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
     - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
     - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering the game of Go without human knowledge</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
 
   logistics:
 
