@@ -437,7 +437,7 @@
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank">Generative Adversarial Imitation Learning</a>
+    - Ho et al. <a href="https://arxiv.org/abs/1606.03476" target="_blank"> <strong>Generative Adversarial Imitation Learning</strong></a>
     - Zhu et al. <a href="https://arxiv.org/abs/1802.09564" target="_blank">Reinforcement and Imitation Learning for Diverse Visuomotor Skills</a>
     - Andrychowicz et al. <a href="https://arxiv.org/pdf/1707.01495.pdf" target="_blank">Hindsight Experience Replay</a>
     - Ding et al. <a href="https://arxiv.org/pdf/1906.05838.pdf" target="_blank">Goal-conditioned Imitation Learning</a>
@@ -461,7 +461,7 @@
   - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
   - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
   - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
-  - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
+  # - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
 
 - date: F 10/22
   lecturer:
@@ -479,7 +479,7 @@
   lecturer: Katerina
   title: >
     <strong>AlphaGo, AlphaGoZero, MuZero</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec13&14&15_PG.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880315a6-86a3-4d93-9ec7-acf6010c80ce
   notes:
@@ -576,7 +576,7 @@
   recitation:
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 2 [covering everything from lectures 10-17]</strong>
+    <strong> Quiz 2 [covering everything from lectures 10-19]</strong>
   # slides:
   # # slides2:
   # video:
