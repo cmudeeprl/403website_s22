@@ -842,9 +842,9 @@
 
 - date: F 12/07
   lecturer:
-  # quiz: >
-  #   <strong>Quiz 3</strong>
-  recitation: Quiz 3 (1-4pm)
-  notes:
-  readings:
-  logistics:
+  # title:
+  recitation:
+  #   <strong>Policy and Value Iterations</strong>
+  quiz: >
+    <strong> Quiz 3 (1-4pm) </strong>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
