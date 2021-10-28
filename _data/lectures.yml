@@ -554,7 +554,7 @@
 - date: W 11/03
   lecturer: Ruslan
   title: >
-    <strong>Model-based RL IV</strong>
+    <strong>Distributed Reinforcement Learning</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dc0add7-7e07-43b0-b675-ad02011afd0e
@@ -574,7 +574,7 @@
   recitation:
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 2 [covering everything from lectures 11-18 (Monday, November 01)]</strong>
+    <strong> Quiz 2 [covering everything from lectures 10-18 (Monday, November 01)]</strong>
   # slides:
   # # slides2:
   # video:
@@ -839,3 +839,12 @@
 #     - Google AI Blog&#58; <a href="https://ai.googleblog.com/2020/06/using-selective-attention-in.html" target="_blank">Using Selective Attention in Reinforcement Learning Agents</a>
 #     - Ding et al. <a href="https://openreview.net/forum?id=Syx9Q1rYvH" target="_blank"> Mutual Information Maximization for Robust Plannable Representations</a>
 #   logistics:
+
+- date: F 12/07
+  lecturer:
+  # quiz: >
+  #   <strong>Quiz 3</strong>
+  recitation: Quiz 3 (1-4pm)
+  notes:
+  readings:
+  logistics:
