@@ -535,8 +535,8 @@
 - date: M 11/01
   lecturer: Katerina
   title: >
-    <strong>Model-based RL III: latent variable models</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
+    <strong>Model-based RL III: Time dependent linear models, iLQR</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df313c39-0973-46a6-8628-acfd0108b728
   notes:
   readings:
