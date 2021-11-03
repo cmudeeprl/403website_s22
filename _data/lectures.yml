@@ -459,7 +459,7 @@
   - (optional) Janner et al. <a href="https://arxiv.org/abs/1906.08253" target="_blank">When to Trust Your Model<span>:</span> Model-Based Policy Optimization</a>
   - (optional) Kurutach et al. <a href="https://arxiv.org/abs/1802.10592" target="_blank">Model-Ensemble Trust-Region Policy Optimization</a>
   - (optional) Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
-  - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">MODEL BASED REINFORCEMENT LEARNING FOR ATARI</a>
+  - (optional) Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model based Reinforcement Lerning for Atari</a>
   - Lambert et al.  <a href="https://arxiv.org/abs/2002.04523" target="_blank">Objective Mismatch in Model-based Reinforcement Learning</a>
   # - Yan et al.  <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects Using Contrastive Estimation</a>
 
@@ -478,7 +478,7 @@
 - date: M 10/25
   lecturer: Katerina
   title: >
-    <strong>AlphaGo, AlphaGoZero, MuZero</strong>
+    <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880315a6-86a3-4d93-9ec7-acf6010c80ce
@@ -504,7 +504,7 @@
 - date: W 10/27
   lecturer: Katerina
   title: >
-    <strong>Model-based RL II:Holistic and graph-based world models</strong>
+    <strong>MBRL (cont.) Holistic and graph-based world models</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60e436fd-1b46-4a73-b976-acfb01086915
   notes:
@@ -512,7 +512,7 @@
     - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
     - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
-    - Tutorial - <a href="http://snap.stanford.edu/proj/embeddings-www/" target=  "_blank">Representation Learning on Networks</a>
+    - Yan et.al. - <a href="https://arxiv.org/pdf/2003.05436.pdf" target=  "_blank">Representation Learning on Networks</a>
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
@@ -535,7 +535,7 @@
 - date: M 11/01
   lecturer: Katerina
   title: >
-    <strong>Model-based RL III: Time dependent linear models, iLQR</strong>
+    <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df313c39-0973-46a6-8628-acfd0108b728
   notes:
@@ -552,16 +552,18 @@
   # logistics:
 
 - date: W 11/03
-  lecturer: Ruslan
+  lecturer: Katerina
   title: >
-    <strong>Distributed Reinforcement Learning</strong>
+    <strong>MBRL(cont), stochastic world models</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dc0add7-7e07-43b0-b675-ad02011afd0e
   notes:
   readings:
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
-    #
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
+
 
 - date: F 11/05
   lecturer:
