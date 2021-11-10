@@ -591,7 +591,7 @@
   lecturer: Ruslan
   title: >
     <strong>Offline RL</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec19_modelbasedRL_2.pdf
+  -slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73bc4094-b63c-40ce-8447-ad0401086368
   notes:
   readings:
@@ -600,6 +600,9 @@
     # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
   logistics:
 
 - date: F 11/12
