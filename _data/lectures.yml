@@ -591,7 +591,7 @@
   lecturer: Ruslan
   title: >
     <strong>Offline RL</strong>
-  -slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73bc4094-b63c-40ce-8447-ad0401086368
   notes:
   readings:
