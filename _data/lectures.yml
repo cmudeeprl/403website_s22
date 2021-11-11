@@ -469,7 +469,7 @@
   recitation: >
     <strong> Homework 3</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_7_Homework_3.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cc303427-9a8a-44fe-a637-acf70121c04f
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a46e9bc9-0df3-49ad-b353-ad9000dcde6d
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -481,7 +481,7 @@
     <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=880315a6-86a3-4d93-9ec7-acf6010c80ce
+  video: hhttps://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9c430b5-340e-47e2-ab99-ad9000d86066
   notes:
   readings:
     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
@@ -506,7 +506,7 @@
   title: >
     <strong>MBRL (cont.) Holistic and graph-based world models</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60e436fd-1b46-4a73-b976-acfb01086915
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daa6c839-cead-455f-be9c-ad9000d87aee
   notes:
   readings:
     - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
@@ -527,7 +527,7 @@
 
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_8_Quiz_2_Review.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba434ff0-3a8d-4862-96e5-acfe01236808
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de7f972-2a70-41a3-a667-add001049888
   notes:
   readings:
   logistics:
@@ -537,10 +537,10 @@
   title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df313c39-0973-46a6-8628-acfd0108b728
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3703de45-8c79-4024-8a30-ad9000d8a72b
   notes:
   readings:
-    
+
     # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
   logistics: <span class="deadline">HW3 due 11/01 11:59pm</span>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
