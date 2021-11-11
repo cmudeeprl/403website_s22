@@ -556,7 +556,7 @@
     <strong>MBRL(cont), stochastic world models</strong>
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9dc0add7-7e07-43b0-b675-ad02011afd0e
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5748c729-c779-4dfe-b6a7-ad9000d8b830
   notes:
   readings:
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
@@ -592,7 +592,7 @@
   title: >
     <strong>Offline RL</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=73bc4094-b63c-40ce-8447-ad0401086368
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0df56f8e-8433-4751-9ab4-ad9000d8d09b
   notes:
   readings:
 
