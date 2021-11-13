@@ -537,7 +537,6 @@
   title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3703de45-8c79-4024-8a30-ad9000d8a72b
   notes:
   readings:
@@ -556,6 +555,7 @@
   title: >
     <strong>MBRL(cont), stochastic world models</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
+  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_stochastic_F21.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5748c729-c779-4dfe-b6a7-ad9000d8b830
