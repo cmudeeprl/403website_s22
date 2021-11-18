@@ -644,14 +644,14 @@
   lecturer: TBD
   title:
   slides:
-  video:
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a7e58b-bec0-44ed-adff-ad9000d9236b
   notes:
   readings:
 
 - date: F 11/19
-  lecturer: 
+  lecturer:
   recitation: Homework 4
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf 
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
   readings:
