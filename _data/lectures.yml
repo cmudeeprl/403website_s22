@@ -614,7 +614,7 @@
   title: >
     <strong>Intelligent Exploration</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/deepexplorationF21.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb76dad3-8216-4e30-8944-ad0901088d69
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7515234-d20e-412f-b272-addd013abf4f
   # quiz: >
   #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
   notes:
@@ -625,26 +625,32 @@
     - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
     - Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-  logistics: 
+  logistics:
 
 - date: M 11/15
   lecturer: Katerina
   title: >
     <strong> Deep exploration (cont.) and Sim2Real tranfer </strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=05bfc7e9-f1c6-4e04-b2f5-ad100108230c
+  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=781cae6a-c4f2-4a6c-b492-ad9000d91446
   notes:
-  readings: 
+  readings:
    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
 
-
+- date: W 11/17
+  lecturer: TBD
+  title:
+  slides:
+  video:
+  notes:
+  readings:
 
 - date: F 11/19
   lecturer: 
-  recitation: TBD # <strong>Distributional RL</strong>
+  recitation: Homework 4
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf 
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
