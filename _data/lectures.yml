@@ -642,11 +642,16 @@
 
 - date: W 11/17
   lecturer: TBD
-  title:
-  slides:
+  title: >
+    <strong> Sim2Real tranfer (cont.)</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
   video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a7e58b-bec0-44ed-adff-ad9000d9236b
   notes:
   readings:
+    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
+    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
+    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
 
 - date: F 11/19
   lecturer:
