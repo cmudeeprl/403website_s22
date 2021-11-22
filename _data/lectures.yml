@@ -667,7 +667,7 @@
   logistics:
 
 - date: M 11/22
-  lecturer: Daniel Seita (https://www.cs.cmu.edu/~dseita/)
+  lecturer: Daniel Seita 
   title: >
     <strong> GUEST lecture: Visual Imitation Learning (cont.) and vision-based manipulation with Transporters</strong>
   slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Visual-Imitation-Manipulation-10703-class-11-22-2021.pdf
