@@ -760,10 +760,10 @@
   logistics:
 
 - date: M 11/29
-  lecturer: Katerina
+  lecturer: Ruslan
   title: >
-    <strong>TBD</strong>
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec23_visualimitation.pdf
+    <strong>Deep RL for Navigation  </strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Navigation_DeepRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
   notes:
   readings:
@@ -777,6 +777,8 @@
     # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
     # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
     # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
+    - Chen et al. <a href="https://arxiv.org/abs/1903.01959" target="_blank">Learning Exploration Policies for Navigation</a>
+    - Singh Chaplot et al. <a href="https://arxiv.org/abs/2004.05155" target="_blank">Learning to Explore using Active Neural SLAM</a>
   logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
 
 
@@ -812,11 +814,15 @@
 - date: W 12/01
   lecturer: Ruslan
   title: >
-    <strong>Meta-learning for RL</strong>
-  slides:
+    <strong>Efficient Distributed RL</strong>
+  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/EfficientDistributedRL.pdf
   # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
   notes:
   readings:
+    - Parisotto et al. <a href="https://arxiv.org/abs/2104.01655" target="_blank">Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation</a>
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL^2:Fast Reinforcement Learning via Slow Reinforcement Learning</a>
+
 
 # - date: Su 05/09
 #   lecturer:
