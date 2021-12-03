@@ -7,7 +7,7 @@ Instructors:
 
     - name: Ruslan Salakhutdinov
       email: rsalakhu@andrew.cmu.edu
-      url:
+      url: https://www.cs.cmu.edu/~rsalakhu/
       office-hours: Fri. 5pm
       image: staff/ruslan.jpg
 
@@ -34,7 +34,7 @@ TAs:
 
     - name: Alexander Li
       email: acl2@andrew.cmu.edu
-      url:
+      url: http://alexanderli.com/
       office-hours: Mon. 6:30pm
       image: staff/alex.jpg
       zoom:
