@@ -623,7 +623,8 @@
     - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
     - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
     - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
-    - Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
+    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
   logistics:
 
@@ -662,7 +663,6 @@
   notes:
   readings:
     # - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
-    # - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
     # - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
   logistics:
 
