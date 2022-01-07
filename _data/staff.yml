@@ -2,14 +2,8 @@ Instructors:
     - name: Katerina Fragkiadaki
       email: katef@cs.cmu.edu
       url: https://www.cs.cmu.edu/~katef/
-      office-hours: Mon., Wed. 1:10pm (After class)
+      office-hours:
       image: staff/katef.jpeg
-
-    - name: Ruslan Salakhutdinov
-      email: rsalakhu@andrew.cmu.edu
-      url: https://www.cs.cmu.edu/~rsalakhu/
-      office-hours: Fri. 5pm
-      image: staff/ruslan.jpg
 
 EducationAssociates:
     - name: Brynn Edmunds
@@ -17,59 +11,18 @@ EducationAssociates:
       url:
       office-hours:
       image: staff/bedmunds.jpg
-
-    - name: Fatima Kizilkaya
-      email: fjeffrey@andrew.cmu.edu
+      
+TAs:
+    - name: Alex Singh
+      email: alexs1@andrew.cmu.edu
       url:
       office-hours:
-      image: staff/Fatima.jpg
+      image: staff/generic.jpg
+      zoom:
 
-TAs:
-    - name: Alvin Shek
-      email: ashek@andrew.cmu.edu
+    - name: Robin Schmucker
+      email: rschmuck@andrew.cmu.edu
       url:
-      office-hours: Tues. 6:30pm
-      image: staff/Alvin.jpg
-      zoom:
-
-    - name: Alexander Li
-      email: acl2@andrew.cmu.edu
-      url: http://alexanderli.com/
-      office-hours: Mon. 6:30pm
-      image: staff/alex.jpg
-      zoom:
-
-    - name: Nick Toldalagi
-      email: ntoldala@andrew.cmu.edu
-      url:
-      office-hours: Thurs. 5:00pm
-      image: staff/ntoldala.jpg
-      zoom:
-
-    - name: Justin Kiefel
-      email: jkiefel@andrew.cmu.edu
-      url:
-      office-hours: Tues. 2pm
-      image: staff/Justin.jpg
-      zoom:
-
-    - name: Tiancheng Zhao
-      email: tianchen@andrew.cmu.edu
-      url:
-      office-hours: Fri. 3pm
-      image: staff/generic.jpeg
-      zoom:
-
-    - name: Melrose Roderick
-      email: mroderick@cmu.edu
-      url:
-      office-hours: Thurs. 10am
-      image: staff/Melrose.JPG
-      zoom:
-
-    - name: Yafei Hu
-      email: yafeih@andrew.cmu.edu
-      url: https://www.linkedin.com/in/jeffrey-h-56398989
-      office-hours: Wed. 8:30pm
-      image: staff/Yafei.png
+      office-hours:
+      image: staff/generic.jpg
       zoom:
