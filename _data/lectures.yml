@@ -2,8 +2,8 @@
   lecturer: Katerina
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture1_introF21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4be70cfb-16ba-4ae6-8823-ad9000d61467
+  slides:
+  video: 
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
@@ -16,12 +16,12 @@
   title:
   recitation: >
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
-  slides: https://docs.google.com/presentation/d/1saU6nu4wNg6471QaDccePrC8d9TXtbS4wnSof7pbAws/edit?usp=sharing
-  notes: https://colab.research.google.com/drive/1TISfcs4ZRZJ0lg2g0KD7CdsW99HAcWb2?usp=sharing
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/s21_rec1_tf.pdf
+  slides: # https://docs.google.com/presentation/d/1saU6nu4wNg6471QaDccePrC8d9TXtbS4wnSof7pbAws/edit?usp=sharing
+  notes: # https://colab.research.google.com/drive/1TISfcs4ZRZJ0lg2g0KD7CdsW99HAcWb2?usp=sharing
+  slides2: # https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/s21_rec1_tf.pdf
   # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6b6035d-8ff3-48ba-b69e-ad9000dc94a2
-  notes2: https://colab.research.google.com/drive/1LXzznvOnvmvgCXerKc4rk1Aa89u8FONV?usp=sharing
+  video: # https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b6b6035d-8ff3-48ba-b69e-ad9000dc94a2
+  notes2: # https://colab.research.google.com/drive/1LXzznvOnvmvgCXerKc4rk1Aa89u8FONV?usp=sharing
 
   # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
@@ -36,9 +36,9 @@
   lecturer: Katerina
   title: >
     <strong>Multi-armed Bandits</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/banditsexploreF21.pdf
+  slides:
   # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=30ea4b7e-a80b-4a95-a1fe-ad9000d64722
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch2 2.1-2.7
@@ -54,8 +54,8 @@
   lecturer: Katerina
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_mdps _policyvalueIterF21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee02378-734b-49ef-a727-ad9000d66864
+  slides:
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
@@ -67,10 +67,10 @@
   title:
   recitation: >
     <strong>Pytorch, Training Resources & HW1</strong>
-  slides: https://docs.google.com/presentation/d/19fjn3ycYLMQGg07zv1M_PMUsonvOCqXLYfaPQuT3JZI/edit?usp=sharing
+  slides: #https://docs.google.com/presentation/d/19fjn3ycYLMQGg07zv1M_PMUsonvOCqXLYfaPQuT3JZI/edit?usp=sharing
   # # slides2:
-  notes: https://colab.research.google.com/drive/1JOL1dEfpXacPSOEUFqA2NSNwjZ4WJ085?usp=sharing
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e56b362-50f5-43af-b8c4-ad9000dca8b8
+  notes: #https://colab.research.google.com/drive/1JOL1dEfpXacPSOEUFqA2NSNwjZ4WJ085?usp=sharing
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9e56b362-50f5-43af-b8c4-ad9000dca8b8
 
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -97,9 +97,8 @@
   lecturer: Katerina
   title: >
     <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
-  # # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6bc1dab6-fee5-4e95-9b9a-ad9000d68f6e
+  slides:
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -136,10 +135,8 @@
     <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.)</strong>
   # title: >
   #   <strong>Function Approximation, Deep Q-Learning, Deep SARSA</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_MCTD_F21.pdf
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec5&6_GP_bayesian_optimization.pdf
-  # # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=49c20d94-ccd8-4499-8141-ad9000d6a900
+  slides:
+  video:
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
@@ -170,8 +167,8 @@
   title:
   recitation: >
     <strong>HW1</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec3_HW1.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=598a4322-8a96-4924-bf8a-ad9000dcb8a1
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec3_HW1.pdf
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=598a4322-8a96-4924-bf8a-ad9000dcb8a1
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -181,8 +178,8 @@
   lecturer: Katerina
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/lecture_FA_S21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81679c57-1efc-4364-ba03-ada9015d79fd
+  slides: 
+  video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
     - Mnih et al. <a href="https://arxiv.org/pdf/1312.5602.pdf" target="_blank">Playing Atari with Deep Reinforcement Learning</a>
@@ -195,21 +192,20 @@
   lecturer: Katerina
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MCTS_F21.pdf
+  slides:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=100a4e88-4b66-4c2b-b676-ad9000d6cca9
-
+  video:
+  
 - date: F 02/11
   lecturer:
   title:
   recitation: >
     <strong>MCTS, TD Learning, Deep Q Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_4.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e6fabb-43b7-4ce6-bc9f-ad9000dcc474
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_4.pdf
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e6fabb-43b7-4ce6-bc9f-ad9000dcc474
   notes:
   readings:
 
@@ -250,8 +246,8 @@
   lecturer: Katerina
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8d5f015-aa6e-43f6-a186-ad9000d6ec55
+  slides:
+  video:
   notes:
   readings:
     - Mnih et al. <a href="https://www.nature.com/articles/nature14236.pdf"> Human-level control through deep reinforcement learning</a>
@@ -265,8 +261,8 @@
   lecturer: Katerina
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PG_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=60b0921d-4cf4-487f-afca-ad9000d714be
+  slides:
+  video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     # - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
@@ -281,8 +277,8 @@
   title:
   recitation: >
     <strong>Quiz 1 Review</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 5 Quiz 1 Review(1).pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd6ecd93-d163-4841-b7b5-ad9000dcd0e6
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 5 Quiz 1 Review(1).pdf
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd6ecd93-d163-4841-b7b5-ad9000dcd0e6
   notes:
   readings:
   logistics:
@@ -291,8 +287,8 @@
   lecturer: Katerina
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/NaturalPolicyGradientsF21_2.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b08fdc64-d17d-424b-a533-ad9000d7248c
+  slides:
+  video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
@@ -305,9 +301,9 @@
   lecturer: Katerina
   title: >
     <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/PathwiseDDPG_F21.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MaximumEntropyRL.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c6c3a56-9b62-4d65-86a4-ad9000d79f94
+  slides:
+  slides2:
+  video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
     - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
@@ -334,8 +330,8 @@
   lecturer: Katerina
   title: >
     <strong>Evolutionary methods for policy search </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/evolutionarymethods_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ccf5dbc-5e68-4146-b9db-ad9000d7b750
+  slides:
+  video:
   notes:
   readings:
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
@@ -368,8 +364,8 @@
   lecturer: Katerina
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/immitationlearning_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=19042526-9471-44b6-8616-ad9000d7ce97
+  slides:
+  video:
   notes:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
@@ -431,9 +427,9 @@
   lecturer: Katerina
   title: >
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/RL+demosF21.pdf
+  slides:
   # slides2:
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=447aa00c-52ae-4d0b-87fd-ad9000d7e599
+  video:
   notes:
   readings:
     # - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
@@ -450,8 +446,8 @@
   lecturer: Katerina
   title: >
     <strong>Model based RL, Low dimensional model, Explicit models. </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRLRL_lowdimexplicit_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57c02f4b-b81b-4bc5-96b8-ad9000d8037f
+  slides:
+  video:
   notes:
   readings:
   # -Chua et al.  <a href="https://arxiv.org/abs/1805.12114" target="_blank">Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models</a>
@@ -471,8 +467,8 @@
   title:
   recitation: >
     <strong> Homework 3</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_7_Homework_3.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a46e9bc9-0df3-49ad-b353-ad9000dcde6d
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_7_Homework_3.pdf
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a46e9bc9-0df3-49ad-b353-ad9000dcde6d
   notes:
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
@@ -482,9 +478,8 @@
   lecturer: Katerina
   title: >
     <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_AlphaZeroMuzero_F21.pdf
-  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec15_natural_policy_gradients.pdf
-  video: hhttps://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b9c430b5-340e-47e2-ab99-ad9000d86066
+  slides:
+  video:
   notes:
   readings:
     # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
@@ -503,8 +498,8 @@
   lecturer: Katerina
   title: >
     <strong>MBRL (cont.) Holistic and graph-based world models</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=daa6c839-cead-455f-be9c-ad9000d87aee
+  slides:
+  video:
   notes:
   readings:
     - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
@@ -523,9 +518,9 @@
   recitation: >
     <strong>Quiz 2 Review</strong>
 
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_8_Quiz_2_Review.pdf
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_8_Quiz_2_Review.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec7.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de7f972-2a70-41a3-a667-add001049888
+  video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7de7f972-2a70-41a3-a667-add001049888
   notes:
   readings:
   logistics:
@@ -534,8 +529,8 @@
   lecturer: Katerina
   title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_holisticandgraphmodels_F21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3703de45-8c79-4024-8a30-ad9000d8a72b
+  slides:
+  video:
   notes:
   readings:
 
@@ -552,11 +547,11 @@
   lecturer: Katerina
   title: >
     <strong>MBRL(cont), stochastic world models</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_iLQR_F21.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/MBRL_stochastic_F21.pdf
+  slides:
+  slides2:
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5748c729-c779-4dfe-b6a7-ad9000d8b830
+  video:
   notes:
   readings:
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
@@ -585,9 +580,9 @@
   lecturer: Katerina
   title: >
     <strong>Offline RL</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offpolicyRL_F21_v2.pdf
-  slides2: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/offline_rl_ruosong.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0df56f8e-8433-4751-9ab4-ad9000d8d09b
+  slides:
+  slides2:
+  video:
   notes:
   readings:
 
@@ -605,8 +600,8 @@
   recitation:
   title: >
     <strong>Intelligent Exploration</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/deepexplorationF21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a7515234-d20e-412f-b272-addd013abf4f
+  slides:
+  video:
   # quiz: >
   #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
   notes:
@@ -629,8 +624,8 @@
   lecturer: Katerina
   title: >
     <strong> Deep exploration (cont.) and Sim2Real tranfer </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=781cae6a-c4f2-4a6c-b492-ad9000d91446
+  slides:
+  video:
   notes:
   readings:
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
@@ -642,8 +637,8 @@
   lecturer: Katerina
   title: >
     <strong> Sim2Real tranfer (cont.) and Visual Imitation Learning</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/sim2realSF21.pdf
-  video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=65a7e58b-bec0-44ed-adff-ad9000d9236b
+  slides:
+  video:
   notes:
   readings:
     - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
@@ -655,7 +650,7 @@
 - date: F 04/15
   lecturer:
   recitation: Homework 4
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation 9 Homework 4 Review.pdf
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
   readings:
@@ -667,8 +662,7 @@
   lecturer: Daniel Seita (https://www.cs.cmu.edu/~dseita/)
   title: >
     <strong> GUEST lecture: Visual Imitation Learning (cont.) and vision-based manipulation with Transporters</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Visual-Imitation-Manipulation-10703-class-11-22-2021.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a8a82287-9120-49d7-89db-ad1201089b0f
+  slides: 
   notes:
   readings:
   # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
@@ -684,41 +678,12 @@
   - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
   logistics:
 
-# - date: F 04/23
-#   lecturer:
-#   title:
-#   recitation: >
-#     <strong>HW4</strong>
-#   slides:  https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5781e62-490d-4827-9a03-ac7201347b52
-#   video:
-#   notes:
-#   readings:
-#   logistics:
-
-
-    # <span class="deadline">HW4 due 04/23 11:59pm</span>
-    # <span class="event">HW5 out</span> <br>
-
-
-# - date: F 04/23
-#   lecturer:
-#   title: <strong>Intelligent Exploration</strong>
-#   slides:
-#   video:
-#   notes:
-#   readings:
-#     - Savinov et al. <a href="https://arxiv.org/abs/1810.02274" target="_blank">Episodic Curiosity through Reachability</a>
-#     - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-#   logistics:
-#     <span class="deadline">HW4 due 04/23 11:59pm</span> <span class="event">HW5 out</span> <br>
 
 - date: W 04/20
   lecturer: Katerina
   title: >
     <strong>Deep RL for Navigation  </strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Navigation_DeepRL.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c86ea33-82ae-46c9-a2a9-ad17010fdc96
+  slides:
   notes:
   readings:
     # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
@@ -740,7 +705,7 @@
   # quiz: >
   #   <strong>Quiz 3</strong>
   recitation: Quiz 3 Review 
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
+  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
   notes: 
   readings:
   logistics:
@@ -776,11 +741,10 @@
 
 
 - date: M 04/25
-  lecturer: Ruslan
+  lecturer: Katerina
   title: >
     <strong>Efficient Distributed RL</strong>
-  slides: https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/EfficientDistributedRL.pdf
-  # video: https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=28bac463-2858-45b3-97a4-ad20010813eb
+  slides:
   notes:
   readings:
     - Parisotto et al. <a href="https://arxiv.org/abs/2104.01655" target="_blank">Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation</a>
