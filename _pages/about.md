@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
+title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning & <b>C</b>ontrol
 description: 10-403 • Spring 2022 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
