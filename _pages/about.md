@@ -37,8 +37,8 @@ Students should have a solid understanding of the following areas
 
 ***
 
-- **Lectures:** Monday, Wednesday 10:10 AM - 11:30 PM
-- **Recitations:** Friday 10:10 AM - 11:30 PM
+- **Lectures:** Monday, Wednesday 10:10 AM - 11:30 AM
+- **Recitations:** Friday 10:10 AM - 11:30 AM
 - **Lecture/Recitation Location:** Roberts Engineering Hall Single
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
