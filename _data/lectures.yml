@@ -15,7 +15,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
+    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, PyTorch </strong>
   slides: # https://docs.google.com/presentation/d/1saU6nu4wNg6471QaDccePrC8d9TXtbS4wnSof7pbAws/edit?usp=sharing
   notes: # https://colab.research.google.com/drive/1TISfcs4ZRZJ0lg2g0KD7CdsW99HAcWb2?usp=sharing
   slides2: # https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/s21_rec1_tf.pdf
@@ -66,7 +66,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Pytorch, Training Resources & HW1</strong>
+    <strong>Bandits, Training Resources & HW1</strong>
   slides: #https://docs.google.com/presentation/d/19fjn3ycYLMQGg07zv1M_PMUsonvOCqXLYfaPQuT3JZI/edit?usp=sharing
   # # slides2:
   notes: #https://colab.research.google.com/drive/1JOL1dEfpXacPSOEUFqA2NSNwjZ4WJ085?usp=sharing
