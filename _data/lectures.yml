@@ -18,14 +18,14 @@
     <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, PyTorch </strong>
   slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/recitation_1-neural_nets.pdf
   slides2: https://docs.google.com/presentation/d/1ZTQA8DmovIFuTk9NusnEWSjC9f_vLWdCA4Nppf00mhc/edit?usp=sharing
-  slides3: https://cmudeeprl.github.io/403website_s22/assets/lectures/f21/s21_rec1_tf.pdf
+  notes: https://cmudeeprl.github.io/403website_s22/assets/lectures/f21/s21_rec1_tf.pdf
   video:
   readings:
     - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-     - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1jswUbztJ7WB3EcxNN6hYr7dbmz01PL1H?usp=sharing" target=  "_blank">notebook</a>
-     - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
-     - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
-     - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
+    - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1jswUbztJ7WB3EcxNN6hYr7dbmz01PL1H?usp=sharing" target=  "_blank">notebook</a>
+    - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
+    - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
+    - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
   logistics:
 
 - date: M 01/24
