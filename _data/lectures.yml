@@ -3,14 +3,14 @@
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
   slides: https://www.dropbox.com/s/jxos9zw0xvyi34x/lecture1_introS22.pdf?dl=0
-  video: 
+  video: https://www.dropbox.com/s/7ovw8m0wjqn09kn/video1534798682.mp4?dl=0
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch1
     - Smith & Gasser. <a href="http://cogs.indiana.edu/~cogdev/labwork/6_lessons.pdf" target="_blank">The Development of Embodied Cognition - Six Lessons from Babies</a>
     - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
-  
+
 - date: F 01/21
   lecturer:
   title:
@@ -174,7 +174,7 @@
   lecturer: Katerina
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
-  slides: 
+  slides:
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
@@ -194,7 +194,7 @@
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
   video:
-  
+
 - date: F 02/11
   lecturer:
   title:
@@ -387,13 +387,13 @@
   title: >
     <strong> Spring break - No classes </strong>
   recitation: <strong>No Recitation (Spring break) </strong>
-  
+
 - date: W 03/09
   lecturer:
   title: >
     <strong> Spring break - No classes </strong>
   recitation: <strong>No Recitation (Spring break) </strong>
- 
+
 - date: F 03/11
   lecturer:
   title: >
@@ -610,7 +610,7 @@
     - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
     - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
   logistics:
-  
+
 - date: F 04/08
   lecturer:
   quiz: >
@@ -658,7 +658,7 @@
   lecturer: Daniel Seita (https://www.cs.cmu.edu/~dseita/)
   title: >
     <strong> GUEST lecture: Visual Imitation Learning (cont.) and vision-based manipulation with Transporters</strong>
-  slides: 
+  slides:
   notes:
   readings:
   # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
@@ -695,14 +695,14 @@
     - Chen et al. <a href="https://arxiv.org/abs/1903.01959" target="_blank">Learning Exploration Policies for Navigation</a>
     - Singh Chaplot et al. <a href="https://arxiv.org/abs/2004.05155" target="_blank">Learning to Explore using Active Neural SLAM</a>
   logistics: <span class="deadline">HW4 due 11/29 11:59pm</span>
-  
+
 - date: F 04/22
   lecturer:
   # quiz: >
   #   <strong>Quiz 3</strong>
-  recitation: Quiz 3 Review 
+  recitation: Quiz 3 Review
   slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
-  notes: 
+  notes:
   readings:
   logistics:
 
@@ -772,8 +772,8 @@
   quiz: >
     <strong> Quiz 3 (1-4pm) </strong>
   logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
-  
-  
+
+
 - date: F 04/29
   lecturer:
   # title:
@@ -782,4 +782,3 @@
   quiz: >
     <strong> Quiz 3 (1-4pm) </strong>
   logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
- 
