@@ -56,7 +56,6 @@
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
-  logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 - date: F 01/28
   lecturer:
@@ -102,7 +101,7 @@
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>, discussed in lecture
     # - Rasmussen & Williams <a href="http://www.gaussianprocess.org/gpml/chapters/RW.pdf" target="_blank">Gaussian Processes for Machine Learning</a> Ch1, Ch2 2.1-2.3
     # - Brochu et. al <a href="https://arxiv.org/pdf/1012.2599.pdf" target="blank">A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning</a> Sections 1, 2.1, 2.2
-  logistics:
+  logistics: <span class="event">HW1 out </span> <br>
 
 # - date: T 02/16
 #   lecturer:
