@@ -4,7 +4,7 @@ Instructors:
       url: https://www.cs.cmu.edu/~katef/
       office-hours: Every Monday and Wednesday at 11:30 AM (After Class)
       image: staff/katef.jpeg
-      
+
 TAs:
     - name: Alex Singh
       email: alexs1@andrew.cmu.edu
@@ -18,4 +18,11 @@ TAs:
       url:
       office-hours: Mondays 3-4 PM
       image: staff/picture_robin.png
+      zoom:
+
+    - name: Nick Toldalagi
+      email: ntoldala@andrew.cmu.edu
+      url:
+      office-hours: TBD
+      image: staff/ntoldala.jpg
       zoom:
