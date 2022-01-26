@@ -50,7 +50,7 @@
   lecturer: Katerina
   title: >
     <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  slides:
+  slides: https://www.dropbox.com/s/89t498yn8y3epsg/lecture_mdps%20_policyvalueIterS22.pdf?dl=0
   video:
   notes:
   readings:
