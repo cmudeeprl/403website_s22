@@ -171,8 +171,9 @@
 - date: M 02/07
   lecturer: Katerina
   title: >
-    <strong>Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
-  slides:
+    <strong>Monte Carlo and TD (cont.), Function approximation in prediction and control, Deep Q-learning, Deep SARSA</strong>
+  slides: https://www.dropbox.com/s/yth6aot7yqdnnf2/lecture_MCTD_S22.pdf?dl=0
+  slides2: 
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
