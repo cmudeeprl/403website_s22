@@ -187,7 +187,7 @@
   lecturer: Katerina
   title: >
     <strong>Planning, Monte Carlo Tree search</strong>
-  slides:
+  slides: https://www.dropbox.com/s/3ao1w555p4xvbyo/MCTS_S22.pdf?dl=0
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
     # - Pritzel et al. <a href="https://arxiv.org/abs/1703.01988" target="_blank"> Neural Episodic Control</a>, discussed in lecture
