@@ -199,7 +199,8 @@
   title:
   recitation: >
     <strong>MCTS, TD Learning, Deep Q Learning</strong>
-  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Recitation_4.pdf
+  slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/f21/Recitation_4.pdf
+  slides2: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/recitation_4_imagenet.pdf
   video: #https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96e6fabb-43b7-4ce6-bc9f-ad9000dcc474
   notes:
   readings:
