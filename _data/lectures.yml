@@ -241,8 +241,8 @@
 - date: M 02/14
   lecturer: Katerina
   title: >
-    <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides:
+    <strong>MCTS (cont.), Policy gradients, REINFORCE, Actor-Critic methods</strong>
+  slides: https://www.dropbox.com/s/5z7jvsn9yb1gawu/PG_S22.pdf?dl=0
   video:
   notes:
   readings:
@@ -257,7 +257,7 @@
   lecturer: Katerina
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont.) </strong>
-  slides:
+  slides: https://www.dropbox.com/s/5z7jvsn9yb1gawu/PG_S22.pdf?dl=0
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
