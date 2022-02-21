@@ -282,8 +282,9 @@
 - date: M 02/21
   lecturer: Katerina
   title: >
-    <strong>Natural PG, PPO, TRPO</strong>
-  slides:
+    <strong>Actor Critic Methods (cont.), Natural PG, PPO, TRPO</strong>
+  slides: https://www.dropbox.com/s/5z7jvsn9yb1gawu/PG_S22.pdf?dl=0
+  slides2: https://www.dropbox.com/s/ie3gre2nkag41zw/NaturalPolicyGradientsS22.pdf?dl=0
   video:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
