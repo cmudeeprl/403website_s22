@@ -297,9 +297,9 @@
 - date: W 02/23
   lecturer: Katerina
   title: >
-    <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
-  slides:
-  slides2:
+    <strong>Deterministic Policy gradient, re-parametrized PG, Evolutionary Methods</strong>
+  slides: https://www.dropbox.com/s/nxahfwpkgxu984c/PathwiseDDPG_S22.pdf?dl=0
+  slides2: https://www.dropbox.com/s/m351xf5o8s8vrty/evolutionarymethods_S22.pdf?dl=0
   video:
   readings:
     # - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
