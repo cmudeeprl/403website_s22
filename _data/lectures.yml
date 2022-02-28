@@ -326,8 +326,9 @@
 - date: M 02/28
   lecturer: Katerina
   title: >
-    <strong>Evolutionary methods for policy search </strong>
-  slides:
+    <strong>Evolutionary methods for policy search, Imitatation Learning </strong>
+  slides: https://www.dropbox.com/s/m351xf5o8s8vrty/evolutionarymethods_S22.pdf?dl=0
+  slides2: https://www.dropbox.com/s/w9xtpx9xxsu2poo/immitationlearning_S22.pdf?dl=0
   video:
   notes:
   readings:
