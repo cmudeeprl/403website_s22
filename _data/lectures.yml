@@ -356,7 +356,7 @@
   lecturer: Katerina
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides:
+  slides: https://www.dropbox.com/s/w9xtpx9xxsu2poo/immitationlearning_S22.pdf?dl=0
   video:
   notes:
   readings:
@@ -417,7 +417,7 @@
   lecturer: Katerina
   title: >
     <strong>Imitation learning (cont.), Adversarial imitation learning </strong>
-  slides:
+  slides: https://www.dropbox.com/s/qv3egiwwvtesqyg/GAILGCILS22.pdf?dl=0
   # slides2:
   video:
   notes:
