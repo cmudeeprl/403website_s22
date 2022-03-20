@@ -763,16 +763,20 @@
   # title:
   recitation:
   #   <strong>Policy and Value Iterations</strong>
-  quiz: >
-    <strong> Quiz 3 (1-4pm) </strong>
-  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
+  logistics:
 
 
 - date: F 04/29
   lecturer:
   # title:
+  recitation: Quiz 3 Review
+  #   <strong>Policy and Value Iterations</strong>
+  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
+
+- date: T 05/03
+  lecturer:
+  # title:
   recitation:
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 3 (1-4pm) </strong>
-  logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
+    <strong> Quiz 3 </strong>
