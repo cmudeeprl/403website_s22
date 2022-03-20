@@ -183,7 +183,7 @@ For any of the above situations, you may request an extension by emailing [Brynn
 
 ### Pass/Fail Policy
 
-We allow you take the course as Pass/Fail. Instructor permission is not required. You must complete all aspects of the course (all homeworks) if you take the course as Pass/Fail.
+We allow you take the course as Pass/Fail. Instructor permission is not required. You must complete all aspects of the course (all homeworks and quizzes) if you take the course as Pass/Fail.
 
 What grade is the cutoff for Pass will depend on your program. Be sure to check with your program / department as to whether you can count a Pass/Fail course towards your degree requirements, **notify us that you want to take the course Pass/Fail, and notify us of the Pass threshold your department uses** (i.e., does it correspond to a grade of A, B, C, or D?)
 
