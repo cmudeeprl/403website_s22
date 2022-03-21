@@ -463,8 +463,26 @@
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
-
+  
 - date: M 03/21
+  lecturer: Katerina
+  title: >
+    <strong>MBRL (cont.) Holistic and graph-based world models</strong>
+  slides: https://www.dropbox.com/s/2598bzvuty27gqe/MBRL_graphmodels_S22.pdf?dl=0
+  video:
+  notes:
+  readings:
+    - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
+    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
+    - Yan et.al. - <a href="https://arxiv.org/pdf/2003.05436.pdf" target=  "_blank">Representation Learning on Networks</a>
+    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
+  logistics:
+
+- date: W 03/23
   lecturer: Katerina
   title: >
     <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero</strong>
@@ -484,23 +502,6 @@
 
   logistics:
 
-- date: W 03/23
-  lecturer: Katerina
-  title: >
-    <strong>MBRL (cont.) Holistic and graph-based world models</strong>
-  slides:
-  video:
-  notes:
-  readings:
-    - Battaglia et al. <a href="https://arxiv.org/pdf/1612.00222.pdf" target="_blank">Interaction Networks for Learning about Objects, Relations and Physics</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    - Gonzalez et al. <a href="https://arxiv.org/pdf/1806.01242.pdf" target="_blank">Graph Networks as Learnable Physics Engines for Inference and Control</a>
-    - Yan et.al. - <a href="https://arxiv.org/pdf/2003.05436.pdf" target=  "_blank">Representation Learning on Networks</a>
-    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-  logistics:
 
 - date: F 03/25
   lecturer:
