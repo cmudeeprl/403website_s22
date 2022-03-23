@@ -372,8 +372,7 @@
 
 - date: F 03/04
   lecturer:
-  title: >
-
+  title:
   recitation: <strong>No Recitation (Mid-semester break) </strong>
 
 - date: M 03/07
@@ -390,7 +389,7 @@
 
 - date: F 03/11
   lecturer:
-  title: >
+  title: 
   recitation: <strong>No Recitation (Spring break) </strong>
 
 # - date: M 10/18
