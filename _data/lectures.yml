@@ -368,30 +368,29 @@
     - Bagnell. <a href="http://www.ri.cmu.edu/publication_view.html?pub_id=7891" target="_blank">An Invitation to Imitation</a>, Up To Page 10
     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-  logistics:
+
 
 - date: F 03/04
   lecturer:
   title: >
-    <strong> Mid-semester break - No classes </strong>
+
   recitation: <strong>No Recitation (Mid-semester break) </strong>
 
 - date: M 03/07
   lecturer:
   title: >
     <strong> Spring break - No classes </strong>
-  recitation: <strong>No Recitation (Spring break) </strong>
+  recitation:
 
 - date: W 03/09
   lecturer:
   title: >
     <strong> Spring break - No classes </strong>
-  recitation: <strong>No Recitation (Spring break) </strong>
+  recitation:
 
 - date: F 03/11
   lecturer:
   title: >
-    <strong> Spring break - No classes </strong>
   recitation: <strong>No Recitation (Spring break) </strong>
 
 # - date: M 10/18
@@ -410,8 +409,6 @@
 #     - Ross et al. <a href="https://arxiv.org/abs/1011.0686" target="_blank">A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning</a>, Optional
 #     - Bojarski et al. <a href="https://arxiv.org/abs/1604.07316" target="_blank">End to End Learning for Self-Driving Cars</a>
 #     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
-
-
 
 - date: M 03/14
   lecturer: Katerina
@@ -462,7 +459,7 @@
   readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
-  
+
 - date: M 03/21
   lecturer: Katerina
   title: >

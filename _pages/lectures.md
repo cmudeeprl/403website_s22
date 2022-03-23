@@ -24,7 +24,7 @@ title: Schedule
 
 <tr class="{{ event_type }}">
     <th scope="row">{{ lecture.date }}</th>
-    {% if lecture.recitation != blank %} 
+    {% if lecture.recitation != blank %}
     {% assign recitation_count = recitation_count | plus: 1 %}
     {%endif%}
     {% if lecture.title contains 'No class' or lecture.title contains 'cancelled' or lecture.title contains 'Buffer' %}
