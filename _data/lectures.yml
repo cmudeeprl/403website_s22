@@ -578,9 +578,7 @@
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural 
-    
-    </a>
+    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
   logistics:
 
 - date: W 04/06
