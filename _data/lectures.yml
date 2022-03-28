@@ -515,7 +515,7 @@
   lecturer: Katerina
   title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
-  slides:
+  slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/MBRL_iLQR_S22.pdf
   video:
   notes:
   readings:
