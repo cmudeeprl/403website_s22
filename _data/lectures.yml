@@ -553,7 +553,7 @@
   recitation:
   #   <strong>Policy and Value Iterations</strong>
   quiz: >
-    <strong> Quiz 2 [covering everything from lectures 11 through 18 (Monday, March 28)]</strong>
+    <strong> Quiz 2 [covering everything from lectures 10 through 17 (no MuZero) (Wednesday, March 23)]</strong>
   # slides:
   # # slides2:
   # video:
@@ -579,7 +579,9 @@
     # - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
-    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
+    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural 
+    
+    </a>
   logistics:
 
 - date: W 04/06
