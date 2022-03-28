@@ -56,7 +56,7 @@ Individual homeworks may NOT necessarily be worth the same percentage. **Some ho
 
 ### Homework Assignments
 
-There will be 4 homework assignments over the course of the semester. For each, you may work in groups of **two or three** students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
+There will be 5 homework assignments over the course of the semester. For each, you may work in groups of **two or three** students. Only one person should submit the writeup and code on Gradescope. Make sure you **mark your partner/s as a collaborator on Gradescope** and that both names are listed in the writeup.
 
 These assignments may contain material that has been covered by published papers and webpages. We expect students to solve the problems themselves rather than search for answers.
 
