@@ -470,7 +470,6 @@
     - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
     - Fragkiadaki et al. <a href="https://arxiv.org/abs/1511.07404" target="_blank">Learning Visual Predictive Models of Physics for Playing Billiards</a>
     - Gonzalez et al. <a href="https://arxiv.org/pdf/2002.09405.pdf" target="_blank">Learning to Simulate Complex Physics with Graph Networks</a>
-    - Yan et al. <a href="https://arxiv.org/pdf/2003.05436.pdf" target="_blank">Representation Learning on Networks</a>
     - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
     # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
