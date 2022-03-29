@@ -618,7 +618,8 @@
     - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
     - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
-
+  logistics: <span class="deadline">HW4 due 04/20 11:59pm</span>
+  
 - date: W 04/13
   lecturer: Katerina
   title: >
@@ -684,7 +685,7 @@
     # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
     - Chen et al. <a href="https://arxiv.org/abs/1903.01959" target="_blank">Learning Exploration Policies for Navigation</a>
     - Singh Chaplot et al. <a href="https://arxiv.org/abs/2004.05155" target="_blank">Learning to Explore using Active Neural SLAM</a>
-  logistics: <span class="deadline">HW4 due 04/20 11:59pm</span>
+  logistics:
 
 - date: F 04/22
   lecturer:
