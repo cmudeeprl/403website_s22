@@ -560,12 +560,28 @@
   # readings:
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
-
-
+  
 - date: M 04/04
   lecturer: Katerina
-  title: >
-    <strong>Offline RL</strong>
+  title: <strong>MBRL(cont), stochastic world models</strong>
+  slides: https://www.dropbox.com/s/ridv21oeo1sa8t6/MBRL_stochastic_S22_backup.pdf?dl=0
+  slides2:
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
+  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
+  video:
+  notes:
+  readings:
+    # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
+    -  Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
+    - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
+    - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
+
+
+
+- date: W 04/06
+  lecturer: Katerina
+  title: <strong>Off-Policy RL</strong>
   slides:
   slides2:
   video:
@@ -581,25 +597,25 @@
     - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
   logistics:
 
-- date: W 04/06
-  lecturer: Katerina
-  recitation:
-  title: >
-    <strong>Intelligent Exploration</strong>
-  slides:
-  video:
+# - date: W 04/06
+#  lecturer: Katerina
+#  recitation:
+#  title: >
+#    <strong>Intelligent Exploration</strong>
+#  slides:
+#  video:
   # quiz: >
   #   <strong> Quiz 2 (online) [lectures 10-17]</strong>
-  notes:
-  readings:
-    - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-    - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
-    - Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
-    - Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
-    - Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
-    - (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
-    - Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
-  logistics:
+ # notes:
+ # readings:
+  #  - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
+   # - Pathak et al. <a href="https://pathak22.github.io/noreward-rl/resources/icml17.pdf" target="_blank">Curiosity-driven Exploration by Self-supervised Prediction</a>
+    #- Burda et al. <a href="https://pathak22.github.io/large-scale-curiosity/" target="_blank">Large-Scale Study of Curiosity-Driven Learning</a>
+    #- Savinov et al. <a href="https://openreview.net/forum?id=SkeK3s0qKQ" target="_blank">Episodic Curiosity through Reachability</a>
+    #- Ecoffet et al. <a href="https://arxiv.org/abs/1901.10995" target="_blank">Go-Explore<span>:</span> a New Approach for Hard-Exploration Problems</a>
+    #- (optional) Eccofet et al. <a href="https://arxiv.org/abs/2004.12919" target="_blank">First return, then explore</a>
+    #- Salimans et al. <a href="https://arxiv.org/abs/1812.03381" target="_blank">Learning Montezuma's Revenge from a Single Demonstration</a>
+  #logistics:
 
 - date: F 04/08
   lecturer:
