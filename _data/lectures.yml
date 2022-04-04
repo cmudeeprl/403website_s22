@@ -514,37 +514,37 @@
 - date: M 03/28
   lecturer: Katerina
   title: >
+    <strong>MBRL (cont), AlphaGo, AlphaGoZero, MuZero (cont.)</strong>
+  slides: https://www.dropbox.com/s/qow98y2sjxyshq5/MBRL_AlphaZeroMuzero_S22.pdf?dl=0
+  video:
+  notes:
+  readings:
+    # - <a href="https://wiseodd.github.io/techblog/2018/03/14/natural-gradient/#:~:text=Up%20to%20constant%20factor%20of,%E2%88%87%CE%B8L(%CE%B8)." target="blank">Natural Gradient Descent</a> (blogpost)
+    # - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    # - Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    - (optional) David Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
+    - David Silver et al. <a href="https://www.nature.com/articles/nature24270" target="_blank">Mastering the game of Go without human knowledge</a>
+    - David Silver et al. <a href="https://arxiv.org/abs/1712.01815" target="_blank">Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm</a>
+    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank">MuZero:Mastering Go, chess, shogi and Atari without rules</a>
+    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target="_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
+
+  logistics: <span class="event">HW4 out (tentative)</span>, <span class="deadline">HW3 due 03/28 11:59pm</span>
+
+- date: W 03/30
+  lecturer: Katerina
+  title: >
     <strong>MBRL (cont.) Time dependent linear models, iLQR</strong>
   slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/MBRL_iLQR_S22.pdf
   video:
   notes:
   readings:
-
-    # - Hafner et al. <a href="https://arxiv.org/abs/1912.01603" target="_blank">Dream to Control<span>:</span>Learning Behaviors by Latent Imagination</a>
-  logistics: <span class="event">HW4 out (tentative)</span>, <span class="deadline">HW3 due 03/28 11:59pm</span>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1801.01290" target="_blank">Soft Actor-Critic<span>:</span> Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
   #   - Haarnoja et al. <a href="https://arxiv.org/abs/1812.05905" target="_blank">Soft Actor-Critic Algorithms and Applications</a>
   #   - Fujimoto et al. <a href="https://arxiv.org/abs/1802.09477" target="_blank">Addressing Function Approximation Error in Actor-Critic Methods</a>
     # - Silver et al. <a href="https://www.nature.com/articles/nature16961" target="_blank">Mastering the game of Go with deep neural networks and tree search</a>
     # - Silver et al. <a href="https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ" target="_blank">Mastering the game of Go without human knowledge</a>
   # logistics:
-
-- date: W 03/30
-  lecturer: Katerina
-  title: >
-    <strong>MBRL(cont), stochastic world models</strong>
-  slides:
-  slides2:
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  video:
-  notes:
-  readings:
-    # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
-    -  Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
-    -  Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
-    - Agrawal et al. <a href="https://arxiv.org/abs/1606.07419" target="_blank">Learning to Poke by Poking<span>:</span> Experiential Learning of Intuitive Physics</a>
-    - Yan et al. <a href="https://arxiv.org/abs/2003.05436" target="_blank">Learning Predictive Representations for Deformable Objects using Contrastive Estimation</a>
 
 - date: F 04/01
   lecturer:
@@ -563,12 +563,10 @@
   
 - date: M 04/04
   lecturer: Katerina
-  title: <strong>MBRL(cont), stochastic world models</strong>
+  title: >
+    <strong>MBRL(cont), stochastic world models</strong>
   slides: https://www.dropbox.com/s/ridv21oeo1sa8t6/MBRL_stochastic_S22_backup.pdf?dl=0
   slides2:
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
-  # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
-  video:
   notes:
   readings:
     # - Nagabandi et al. <a href="https://arxiv.org/abs/1708.02596" target="_blank">Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning</a>
