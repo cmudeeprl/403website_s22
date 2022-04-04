@@ -574,15 +574,14 @@
     -  Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
 
 
-# - date: W 04/06
- # lecturer: Katerina
-  #title: <strong>Off-Policy RL</strong>
-  #slides:
-  #slides2:
-  #video:
-  #notes:
-  #readings:
-
+#- date: W 04/06
+#  lecturer: Katerina
+#  title: <strong>Off-Policy RL</strong>
+#  slides:
+#  slides2:
+#  video:
+#  notes:
+#  readings:
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge">Mastering the Game of Go without Human Knowledge</a>
     # - Schrittwieser et al. <a href="https://arxiv.org/abs/1911.08265" target="_blank">Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model</a>
     # - Oh et al. <a href="https://arxiv.org/abs/1507.08750" target="_blank">Action-Conditional Video Prediction using Deep Networks in Atari Games</a>
@@ -592,7 +591,7 @@
    # - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
   #logistics:
 
- - date: W 04/06
+- date: W 04/06
   lecturer: Katerina
   recitation:
   title: >
