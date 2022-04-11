@@ -599,8 +599,8 @@
 
 - date: M 04/011
   lecturer: Katerina
-  title: <strong>Off-Policy RL</strong>
-  slides:
+  title: <strong>Offline RL</strong>
+  slides: https://www.dropbox.com/s/5hidcw21djjvwa7/offpolicyRL_S22.pdf?dl=0
   slides2:
   video:
   notes:
