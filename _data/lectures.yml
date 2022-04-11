@@ -606,6 +606,8 @@
   notes:
   readings:
     - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
+    - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target=_"blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
+    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target=_"blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
   logistics: <span class="deadline">HW4 due 04/11 11:59pm</span>, <span class="event">HW5 out (tentative)</span>
 
 - date: W 04/13
