@@ -295,7 +295,7 @@
 - date: W 02/23
   lecturer: Katerina
   title: >
-    <strong>Deterministic Policy gradient, re-parametrized PG, Evolutionary Methods</strong>
+    <strong>Deterministic Policy gradient, re-parametrized PG</strong>
   slides: https://www.dropbox.com/s/nxahfwpkgxu984c/PathwiseDDPG_S22.pdf?dl=0
   slides2: https://www.dropbox.com/s/m351xf5o8s8vrty/evolutionarymethods_S22.pdf?dl=0
   video:
@@ -322,7 +322,7 @@
 - date: M 02/28
   lecturer: Katerina
   title: >
-    <strong>Evolutionary methods for policy search, Imitatation Learning </strong>
+    <strong>Evolutionary methods for policy search </strong>
   slides: https://www.dropbox.com/s/m351xf5o8s8vrty/evolutionarymethods_S22.pdf?dl=0
   slides2: https://www.dropbox.com/s/w9xtpx9xxsu2poo/immitationlearning_S22.pdf?dl=0
   video:
@@ -597,7 +597,7 @@
     <strong>No Classes - Spring Carnival</strong>
 
 
-- date: M 04/011
+- date: M 04/11
   lecturer: Katerina
   title: <strong>Offline RL</strong>
   slides: https://www.dropbox.com/s/5hidcw21djjvwa7/offpolicyRL_S22.pdf?dl=0
@@ -605,16 +605,15 @@
   video:
   notes:
   readings:
-    - Kaiser et al. <a href="https://arxiv.org/pdf/1903.00374.pdf" target="_blank">Model Based Reinforcement Learning for Atari</a>
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-    - Wang et al. <a href="https://arxiv.org/abs/2103.04947" target="_blank">Instabilities of Offline RL with Pre-Trained Neural Representation</a>
+    - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics: <span class="deadline">HW4 due 04/11 11:59pm</span>, <span class="event">HW5 out (tentative)</span>
 
 - date: W 04/13
   lecturer: Katerina
   title: >
-    <strong> Deep exploration (cont.) and Sim2Real tranfer </strong>
-  slides:
+    <strong> Sim2Real transfer </strong>
+  slides: https://www.dropbox.com/s/r8e1izsx4asc6w4/sim2realS22.pdf?dl=0
   video:
   notes:
   readings:
