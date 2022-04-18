@@ -689,35 +689,20 @@
 - date: M 04/25
   lecturer: Katerina
   title: >
-    <strong>Deep RL for Navigation  </strong>
+    <strong>Buffer  </strong>
   slides:
   notes:
   readings:
-    # - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    # - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    # - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
-    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
-
-#     - Osband et al. <a href="https://arxiv.org/abs/1602.04621" target="_blank">Deep Exploration via Bootstrapped DQN</a>
-    # - Savinov et al. <a href="https://arxiv.org/abs/1803.00653" target="_blank">Semi-parametric Topological Memory for Navigation</a>
-    # - Eysenbach et al. <a href="https://arxiv.org/abs/1906.05253" target="_blank">Search on the Replay Buffer<span>:</span> Bridging Planning and Reinforcement Learning</a>
-    # - Emmons et al. <a href="https://arxiv.org/abs/2003.06417" target="_blank">Sparse Graphical Memory for Robust Planning</a>
-    # - Liu et al. <a href="https://arxiv.org/abs/2002.12336" target="_blank">Hallucinative Topological Memory for Zero-Shot Visual Planning</a>
-    - Chen et al. <a href="https://arxiv.org/abs/1903.01959" target="_blank">Learning Exploration Policies for Navigation</a>
-    - Singh Chaplot et al. <a href="https://arxiv.org/abs/2004.05155" target="_blank">Learning to Explore using Active Neural SLAM</a>
   logistics:
 
 
 - date: W 04/27
   lecturer: Katerina
   title: >
-    <strong>Efficient Distributed RL</strong>
+    <strong>Buffer </strong>
   slides:
   notes:
   readings:
-    - Parisotto et al. <a href="https://arxiv.org/abs/2104.01655" target="_blank">Efficient Transformers in Reinforcement Learning using Actor-Learner Distillation</a>
-    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783" target="_blank">Asynchronous Methods for Deep Reinforcement Learning</a>
-    - Duan et al. <a href="https://arxiv.org/abs/1611.02779" target="_blank">RL^2:Fast Reinforcement Learning via Slow Reinforcement Learning</a>
 
 # - date: W 12/01
 #   lecturer: Ruslan
