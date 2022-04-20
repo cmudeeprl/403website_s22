@@ -639,16 +639,15 @@
   video:
   notes:
   readings:
-    - Tobin et al. <a href="https://arxiv.org/abs/1703.06907" target="_blank">Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World</a>
-    - Muller et al. <a href="https://arxiv.org/abs/1804.09364" target="_blank">Driving Policy Transfer via Modularity and Abstraction</a>
-    - Akkaya et al. <a href="https://arxiv.org/pdf/1910.07113.pdf" target="_blank">Solving Rubik’s Cube with A Robot Hand</a>
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
 
 - date: W 04/20
   title: >
-    <strong> Visual Imitation Learning and vision-based manipulation with Transporters</strong>
-  slides:
+    <strong> Self-Supervised Visual Learning</strong>
+  slides: 
+https://www.dropbox.com/s/hrtfzk4cf0zq5yv/VisualRLSelfSupervision.pdf?dl=0
   notes:
   readings:
   # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
