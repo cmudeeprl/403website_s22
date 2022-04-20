@@ -640,14 +640,12 @@
   notes:
   readings:
     - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV Reinforcement Learning of Physical Skills from Videos</a>
-    # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
     - Aytar et al. <a href="https://arxiv.org/abs/1805.11592" target="_blank">Playing hard exploration games by watching YouTube</a>
 
 - date: W 04/20
   title: >
     <strong> Self-Supervised Visual Learning</strong>
-  slides: 
-https://www.dropbox.com/s/hrtfzk4cf0zq5yv/VisualRLSelfSupervision.pdf?dl=0
+  slides: https://www.dropbox.com/s/hrtfzk4cf0zq5yv/VisualRLSelfSupervision.pdf?dl=0
   notes:
   readings:
   # - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV <span>:</span> Reinforcement Learning of Physical Skills from Videos</a>
@@ -658,9 +656,9 @@ https://www.dropbox.com/s/hrtfzk4cf0zq5yv/VisualRLSelfSupervision.pdf?dl=0
     # - Gupta et al. <a href="https://arxiv.org/pdf/1910.11956.pdf" target="_blank">Relay Policy Learning<span>:</span> Solving Long-Horizon Tasks via Imitation and Reinforcement Learning</a>
     # - Nachum et al. <a href="https://arxiv.org/pdf/1805.08296.pdf" target="_blank">Data-Efficient Hierarchical Reinforcement Learning</a>
     # - Nair et al. <a href="https://arxiv.org/abs/1807.04742" target="_blank">Visual Reinforcement Learning with Imagined Goals</a>
-  - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
-  - Zeng et al. <a href="https://arxiv.org/abs/2010.14406v2" target="_blank">Transporter Networks:Rearranging the Visual World for Robotic Manipulation</a>
-  - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
+    - Peng et al. <a href="https://arxiv.org/abs/1810.03599" target="_blank">SFV:Reinforcement Learning of Physical Skills from Videos</a>
+    - Zeng et al. <a href="https://arxiv.org/abs/2010.14406v2" target="_blank">Transporter Networks:Rearranging the Visual World for Robotic Manipulation</a>
+    - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
   logistics:
 
 - date: F 04/22
