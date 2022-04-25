@@ -678,10 +678,14 @@
 - date: M 04/25
   lecturer: Katerina
   title: >
-    <strong>Buffer  </strong>
-  slides:
+    <strong>Control with 3D visual representations </strong>
+  slides: https://www.dropbox.com/s/zagbqguc2x9a7gt/3Dforrobotics.pdf?dl=0
   notes:
-  readings:
+  readings: 
+    - Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
+    - Fish Tung et al. <a href="https://arxiv.org/abs/2011.06464" target="_blank">3D-OES Viewpoint-Invariant Object-Factorized Environment Simulators</a>
+    - Harley et al. <a href="https://arxiv.org/abs/1906.03764" target="_blank">Learning from Unlabelled Videos Using Contrastive Predictive Neural 3D Mapping</a>
+    - Yang et al. <a href="https://proceedings.mlr.press/v164/yang22c.html" target="_blank">Visually-Grounded Library of Behaviors for Manipulating Diverse Objects across Diverse Configurations and Views</a>
   logistics:
 
 
