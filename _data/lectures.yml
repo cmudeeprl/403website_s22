@@ -658,7 +658,7 @@
   # quiz: >
   #   <strong>Quiz 3</strong>
   recitation: Quiz 3 Review
-  slides: #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
+  slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/10-403_Recitation_11.pdf #https://cmudeeprl.github.io/703website_f21/assets/lectures/f21/Rec10_Quiz3.pdf
   notes:
   readings:
   logistics:
