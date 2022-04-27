@@ -692,10 +692,13 @@
 - date: W 04/27
   lecturer: Katerina
   title: >
-    <strong>Buffer </strong>
-  slides:
+    <strong>Transporter Networks for Vision-Based Manipulation </strong>
+  slides: https://www.dropbox.com/s/8w6qircbwvkmvlw/VisionManipulationTransporters.pdf?dl=0
   notes:
   readings:
+    - Zeng et. al <a href="https://transporternets.github.io/" target="_blank">Transporter Networks: Rearranging the Visual World for Robotic Manipulation</a>
+    - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
+    - (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort: What and Where Pathways for Robotic Manipulation</a>
 
 # - date: W 12/01
 #   lecturer: Ruslan
