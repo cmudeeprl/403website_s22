@@ -721,6 +721,7 @@
   lecturer:
   # title:
   recitation: Quiz 3 Review
+  slides: https://cmudeeprl.github.io/403website_s22/assets/lectures/s22/10403_Recitation_12.pdf
   #   <strong>Policy and Value Iterations</strong>
   logistics: <span class="deadline">Pass/Fail Grade Option Deadline</span>
 
